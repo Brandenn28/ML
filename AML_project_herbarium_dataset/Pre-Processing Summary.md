@@ -1,4 +1,4 @@
-# Cross-Domain Plant ID — Pre-Processing Summary (No Code)
+# Cross-Domain Plant ID — Pre-Processing Summary
 
 This note explains **what I did in data pre-processing**, **what files were produced**, and **why** such that we can jump straight to training.
 
