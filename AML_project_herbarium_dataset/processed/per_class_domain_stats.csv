@@ -1,0 +1,101 @@
+label_idx,species_name,n_field,n_herbarium,total,has_pair
+0,Anacardium occidentale L.,0.0,26.0,26.0,False
+1,Mangifera indica L.,17.0,23.0,40.0,True
+2,Spondias mombin L.,13.0,27.0,40.0,True
+3,Tapirira guianensis Aubl.,13.0,27.0,40.0,True
+4,Annona ambotay Aubl.,0.0,40.0,40.0,False
+5,Annona foetida Mart.,0.0,40.0,40.0,False
+6,Annona glabra L.,9.0,31.0,40.0,True
+7,Annona muricata L.,11.0,29.0,40.0,True
+8,Guatteria ouregou (Aubl.) Dunal,10.0,30.0,40.0,True
+9,Guatteria scandens Ducke,0.0,40.0,40.0,False
+10,Rollinia mucosa (Jacq.) Baill.,0.0,40.0,40.0,False
+11,Xylopia aromatica (Lam.) Mart.,5.0,35.0,40.0,True
+12,Xylopia cayennensis Maas,0.0,40.0,40.0,False
+13,Xylopia frutescens Aubl.,2.0,38.0,40.0,True
+14,Allamanda cathartica L.,12.0,28.0,40.0,True
+15,Asclepias curassavica L.,15.0,25.0,40.0,True
+16,Oreopanax capitatus (Jacq.) Decne. Planch.,14.0,26.0,40.0,True
+17,Maripa glabra Choisy,0.0,40.0,40.0,False
+18,Merremia umbellata (L.) Hallier f.,8.0,32.0,40.0,True
+19,Costus arabicus L.,0.0,40.0,40.0,False
+20,Costus scaber Ruiz Pav.,14.0,26.0,40.0,True
+21,Costus spiralis (Jacq.) Roscoe,0.0,20.0,20.0,False
+22,Evodianthus funifer (Poit.) Lindm.,6.0,34.0,40.0,True
+23,Pteridium arachnoideum (Kaulf.) Maxon,0.0,40.0,40.0,False
+24,Olfersia cervina (L.) Kunze,0.0,40.0,40.0,False
+25,Diospyros capreifolia Mart. ex Hiern,0.0,30.0,30.0,False
+26,Sloanea grandiflora Sm.,4.0,36.0,40.0,True
+27,Sloanea guianensis (Aubl.) Benth.,0.0,40.0,40.0,False
+28,Sphyrospermum cordifolium Benth.,0.0,40.0,40.0,False
+29,Syngonanthus caulescens (Poir.) Ruhland,0.0,40.0,40.0,False
+30,Tonina fluviatilis Aubl.,0.0,40.0,40.0,False
+31,Erythroxylum fimbriatum Peyr.,5.0,35.0,40.0,True
+32,Erythroxylum macrophyllum Cav.,20.0,20.0,40.0,True
+33,Erythroxylum squamatum Sw.,0.0,40.0,40.0,False
+34,Croton schiedeanus Schltdl.,6.0,34.0,40.0,True
+35,Euphorbia cotinifolia L.,0.0,40.0,40.0,False
+36,Euphorbia heterophylla L.,14.0,26.0,40.0,True
+37,Euphorbia prostrata Aiton,22.0,18.0,40.0,True
+38,Euphorbia thymifolia L.,3.0,37.0,40.0,True
+39,Euphorbia tithymaloides L.,0.0,40.0,40.0,False
+40,Hura crepitans L.,19.0,21.0,40.0,True
+41,Jatropha curcas L.,9.0,31.0,40.0,True
+42,Jatropha gossypiifolia L.,0.0,32.0,32.0,False
+43,Ricinus communis L.,22.0,18.0,40.0,True
+44,Sapium glandulosum (L.) Morong,20.0,20.0,40.0,True
+45,Potalia amara Aubl.,0.0,32.0,32.0,False
+46,Chrysothemis pulchella (Donn ex Sims) Decne.,15.0,25.0,40.0,True
+47,Lembocarpus amoenus Leeuwenb.,0.0,19.0,19.0,False
+48,Sinningia incarnata (Aubl.) D.L.Denham,8.0,32.0,40.0,True
+49,Dicranopteris flexuosa (Schrad.) Underw.,0.0,40.0,40.0,False
+50,Dicranopteris pectinata (Willd.) Underw.,0.0,40.0,40.0,False
+51,Heliconia chartacea Lane ex Barreiros,8.0,32.0,40.0,True
+52,Hernandia guianensis Aubl.,0.0,25.0,25.0,False
+53,Hymenophyllum hirsutum (L.) Sw.,6.0,34.0,40.0,True
+54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,0.0,40.0,40.0,False
+55,Trichomanes punctatum Poir.,0.0,40.0,40.0,False
+56,Didymochlaena truncatula (Sw.) J. Sm.,3.0,37.0,40.0,True
+57,Cipura paludosa Aubl.,0.0,40.0,40.0,False
+58,Aegiphila macrantha Ducke,0.0,40.0,40.0,False
+59,Clerodendrum paniculatum L.,10.0,30.0,40.0,True
+60,Congea tomentosa Roxb.,0.0,37.0,37.0,False
+61,Gmelina philippensis Cham.,0.0,18.0,18.0,False
+62,Holmskioldia sanguinea Retz.,10.0,30.0,40.0,True
+63,Hyptis lanceolata Poir.,8.0,32.0,40.0,True
+64,Ocimum campechianum Mill.,7.0,33.0,40.0,True
+65,Orthosiphon aristatus (Blume) Miq.,0.0,40.0,40.0,False
+66,Aniba guianensis Aubl.,0.0,18.0,18.0,False
+67,Aniba megaphylla Mez,14.0,26.0,40.0,True
+68,Nectandra cissiflora Nees,18.0,22.0,40.0,True
+69,Ocotea cernua (Nees) Mez,13.0,27.0,40.0,True
+70,Ocotea floribunda (Sw.) Mez,20.0,20.0,40.0,True
+71,Ocotea longifolia Kunth,20.0,20.0,40.0,True
+72,Ocotea oblonga (Meisn.) Mez,5.0,35.0,40.0,True
+73,Ocotea puberula (Rich.) Nees,15.0,25.0,40.0,True
+74,Couratari guianensis Aubl.,0.0,40.0,40.0,False
+75,Eschweilera parviflora (Aubl.) Miers,0.0,40.0,40.0,False
+76,Eschweilera pedicellata (Rich.) S.A.Mori,0.0,40.0,40.0,False
+77,Acacia mangium Willd.,0.0,34.0,34.0,False
+78,Caesalpinia pulcherrima (L.) Sw.,13.0,27.0,40.0,True
+79,Cajanus cajan (L.) Millsp.,5.0,35.0,40.0,True
+80,Crotalaria retusa L.,0.0,20.0,20.0,False
+81,Erythrina fusca Lour.,14.0,26.0,40.0,True
+82,Inga alba (Sw.) Willd.,0.0,20.0,20.0,False
+83,Inga capitata Desv.,18.0,22.0,40.0,True
+84,Inga edulis Mart.,20.0,20.0,40.0,True
+85,Mimosa pigra L.,0.0,25.0,25.0,False
+86,Mimosa pudica L.,20.0,20.0,40.0,True
+87,Punica granatum L.,16.0,24.0,40.0,True
+88,Adansonia digitata L.,17.0,23.0,40.0,True
+89,Ceiba pentandra (L.) Gaertn.,14.0,26.0,40.0,True
+90,Hibiscus rosa-sinensis L.,19.0,21.0,40.0,True
+91,Psidium guineense Sw.,14.0,26.0,40.0,True
+92,Nephrolepis biserrata (Sw.) Schott,22.0,18.0,40.0,True
+93,Averrhoa carambola L.,20.0,20.0,40.0,True
+94,Turnera ulmifolia L.,19.0,21.0,40.0,True
+95,Piper peltatum L.,19.0,21.0,40.0,True
+96,Eichhornia crassipes (Mart.) Solms,17.0,23.0,40.0,True
+97,Ceratopteris thalictroides (L.) Brongn.,17.0,23.0,40.0,True
+98,Pityrogramma calomelanos (L.) Link,20.0,20.0,40.0,True
+99,Cassipourea guianensis Aubl.,14.0,26.0,40.0,True

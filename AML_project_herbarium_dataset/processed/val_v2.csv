@@ -1,0 +1,949 @@
+rel_path,abs_path,class_id,label_idx,species_name,domain
+train/photo/106461/154340.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\106461\154340.jpg,106461,20,Costus scaber Ruiz Pav.,field
+train/photo/106461/154338.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\106461\154338.jpg,106461,20,Costus scaber Ruiz Pav.,field
+train/photo/106461/154348.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\106461\154348.jpg,106461,20,Costus scaber Ruiz Pav.,field
+train/photo/106461/154339.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\106461\154339.jpg,106461,20,Costus scaber Ruiz Pav.,field
+train/photo/106461/154337.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\106461\154337.jpg,106461,20,Costus scaber Ruiz Pav.,field
+train/herbarium/106461/153999.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106461\153999.jpg,106461,20,Costus scaber Ruiz Pav.,herbarium
+train/herbarium/106461/154174.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106461\154174.jpg,106461,20,Costus scaber Ruiz Pav.,herbarium
+train/herbarium/106461/154249.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106461\154249.jpg,106461,20,Costus scaber Ruiz Pav.,herbarium
+train/herbarium/106461/154179.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106461\154179.jpg,106461,20,Costus scaber Ruiz Pav.,herbarium
+train/photo/12518/11543.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12518\11543.jpg,12518,1,Mangifera indica L.,field
+train/photo/12518/11353.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12518\11353.jpg,12518,1,Mangifera indica L.,field
+train/photo/12518/11530.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12518\11530.jpg,12518,1,Mangifera indica L.,field
+train/herbarium/12518/11067.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12518\11067.jpg,12518,1,Mangifera indica L.,herbarium
+train/herbarium/12518/11254.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12518\11254.jpg,12518,1,Mangifera indica L.,herbarium
+train/herbarium/12518/10993.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12518\10993.jpg,12518,1,Mangifera indica L.,herbarium
+train/herbarium/12518/10905.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12518\10905.jpg,12518,1,Mangifera indica L.,herbarium
+train/herbarium/12518/11289.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12518\11289.jpg,12518,1,Mangifera indica L.,herbarium
+train/photo/127151/995.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\127151\995.jpg,127151,32,Erythroxylum macrophyllum Cav.,field
+train/photo/127151/265185.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\127151\265185.jpg,127151,32,Erythroxylum macrophyllum Cav.,field
+train/photo/127151/991.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\127151\991.jpg,127151,32,Erythroxylum macrophyllum Cav.,field
+train/herbarium/127151/265351.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127151\265351.jpg,127151,32,Erythroxylum macrophyllum Cav.,herbarium
+train/herbarium/127151/265380.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127151\265380.jpg,127151,32,Erythroxylum macrophyllum Cav.,herbarium
+train/herbarium/127151/265439.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127151\265439.jpg,127151,32,Erythroxylum macrophyllum Cav.,herbarium
+train/herbarium/127151/265149.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127151\265149.jpg,127151,32,Erythroxylum macrophyllum Cav.,herbarium
+train/herbarium/127151/265132.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127151\265132.jpg,127151,32,Erythroxylum macrophyllum Cav.,herbarium
+train/herbarium/127151/265107.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127151\265107.jpg,127151,32,Erythroxylum macrophyllum Cav.,herbarium
+train/photo/12910/11794.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12910\11794.jpg,12910,2,Spondias mombin L.,field
+train/photo/12910/11786.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12910\11786.jpg,12910,2,Spondias mombin L.,field
+train/photo/12910/11783.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12910\11783.jpg,12910,2,Spondias mombin L.,field
+train/photo/12910/11792.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12910\11792.jpg,12910,2,Spondias mombin L.,field
+train/herbarium/12910/12454.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12910\12454.jpg,12910,2,Spondias mombin L.,herbarium
+train/herbarium/12910/11566.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12910\11566.jpg,12910,2,Spondias mombin L.,herbarium
+train/herbarium/12910/11931.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12910\11931.jpg,12910,2,Spondias mombin L.,herbarium
+train/photo/12922/13335.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12922\13335.jpg,12922,3,Tapirira guianensis Aubl.,field
+train/photo/12922/13355.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12922\13355.jpg,12922,3,Tapirira guianensis Aubl.,field
+train/photo/12922/13343.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12922\13343.jpg,12922,3,Tapirira guianensis Aubl.,field
+train/photo/12922/13349.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12922\13349.jpg,12922,3,Tapirira guianensis Aubl.,field
+train/herbarium/12922/12981.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12922\12981.jpg,12922,3,Tapirira guianensis Aubl.,herbarium
+train/herbarium/12922/13384.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12922\13384.jpg,12922,3,Tapirira guianensis Aubl.,herbarium
+train/herbarium/12922/12793.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12922\12793.jpg,12922,3,Tapirira guianensis Aubl.,herbarium
+train/herbarium/12922/13912.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12922\13912.jpg,12922,3,Tapirira guianensis Aubl.,herbarium
+train/herbarium/12922/14567.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12922\14567.jpg,12922,3,Tapirira guianensis Aubl.,herbarium
+train/photo/131079/330003.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\131079\330003.jpg,131079,36,Euphorbia heterophylla L.,field
+train/photo/131079/1002.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\131079\1002.jpg,131079,36,Euphorbia heterophylla L.,field
+train/photo/131079/328795.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\131079\328795.jpg,131079,36,Euphorbia heterophylla L.,field
+train/photo/131079/329922.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\131079\329922.jpg,131079,36,Euphorbia heterophylla L.,field
+train/herbarium/131079/329841.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131079\329841.jpg,131079,36,Euphorbia heterophylla L.,herbarium
+train/herbarium/131079/329045.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131079\329045.jpg,131079,36,Euphorbia heterophylla L.,herbarium
+train/herbarium/131079/329110.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131079\329110.jpg,131079,36,Euphorbia heterophylla L.,herbarium
+train/herbarium/131079/329370.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131079\329370.jpg,131079,36,Euphorbia heterophylla L.,herbarium
+train/photo/131736/300239.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\131736\300239.jpg,131736,37,Euphorbia prostrata Aiton,field
+train/photo/131736/301079.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\131736\301079.jpg,131736,37,Euphorbia prostrata Aiton,field
+train/photo/131736/1005.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\131736\1005.jpg,131736,37,Euphorbia prostrata Aiton,field
+train/herbarium/131736/300860.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131736\300860.jpg,131736,37,Euphorbia prostrata Aiton,herbarium
+train/herbarium/131736/300504.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131736\300504.jpg,131736,37,Euphorbia prostrata Aiton,herbarium
+train/herbarium/131736/300272.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131736\300272.jpg,131736,37,Euphorbia prostrata Aiton,herbarium
+train/herbarium/131736/300265.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131736\300265.jpg,131736,37,Euphorbia prostrata Aiton,herbarium
+train/herbarium/131736/300601.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131736\300601.jpg,131736,37,Euphorbia prostrata Aiton,herbarium
+train/herbarium/131736/300651.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131736\300651.jpg,131736,37,Euphorbia prostrata Aiton,herbarium
+train/photo/132431/87998.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\132431\87998.jpg,132431,40,Hura crepitans L.,field
+train/photo/132431/87697.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\132431\87697.jpg,132431,40,Hura crepitans L.,field
+train/photo/132431/87999.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\132431\87999.jpg,132431,40,Hura crepitans L.,field
+train/photo/132431/87669.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\132431\87669.jpg,132431,40,Hura crepitans L.,field
+train/photo/132431/87671.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\132431\87671.jpg,132431,40,Hura crepitans L.,field
+train/photo/132431/87695.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\132431\87695.jpg,132431,40,Hura crepitans L.,field
+train/herbarium/132431/87721.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132431\87721.jpg,132431,40,Hura crepitans L.,herbarium
+train/herbarium/132431/87889.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132431\87889.jpg,132431,40,Hura crepitans L.,herbarium
+train/herbarium/132431/87901.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132431\87901.jpg,132431,40,Hura crepitans L.,herbarium
+train/herbarium/132431/87734.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132431\87734.jpg,132431,40,Hura crepitans L.,herbarium
+train/photo/133595/315694.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\133595\315694.jpg,133595,43,Ricinus communis L.,field
+train/photo/133595/315834.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\133595\315834.jpg,133595,43,Ricinus communis L.,field
+train/photo/133595/315790.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\133595\315790.jpg,133595,43,Ricinus communis L.,field
+train/herbarium/133595/315703.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133595\315703.jpg,133595,43,Ricinus communis L.,herbarium
+train/herbarium/133595/315800.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133595\315800.jpg,133595,43,Ricinus communis L.,herbarium
+train/herbarium/133595/315503.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133595\315503.jpg,133595,43,Ricinus communis L.,herbarium
+train/herbarium/133595/315425.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133595\315425.jpg,133595,43,Ricinus communis L.,herbarium
+train/photo/133617/272735.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\133617\272735.jpg,133617,44,Sapium glandulosum (L.) Morong,field
+train/photo/133617/272585.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\133617\272585.jpg,133617,44,Sapium glandulosum (L.) Morong,field
+train/photo/133617/272580.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\133617\272580.jpg,133617,44,Sapium glandulosum (L.) Morong,field
+train/photo/133617/272581.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\133617\272581.jpg,133617,44,Sapium glandulosum (L.) Morong,field
+train/photo/133617/2283.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\133617\2283.jpg,133617,44,Sapium glandulosum (L.) Morong,field
+train/herbarium/133617/272773.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133617\272773.jpg,133617,44,Sapium glandulosum (L.) Morong,herbarium
+train/herbarium/133617/272692.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133617\272692.jpg,133617,44,Sapium glandulosum (L.) Morong,herbarium
+train/herbarium/133617/272798.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133617\272798.jpg,133617,44,Sapium glandulosum (L.) Morong,herbarium
+train/herbarium/133617/272713.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133617\272713.jpg,133617,44,Sapium glandulosum (L.) Morong,herbarium
+train/photo/13370/16493.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13370\16493.jpg,13370,7,Annona muricata L.,field
+train/photo/13370/16285.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13370\16285.jpg,13370,7,Annona muricata L.,field
+train/photo/13370/16492.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13370\16492.jpg,13370,7,Annona muricata L.,field
+train/photo/13370/16476.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13370\16476.jpg,13370,7,Annona muricata L.,field
+train/photo/13370/16292.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13370\16292.jpg,13370,7,Annona muricata L.,field
+train/photo/13370/16475.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13370\16475.jpg,13370,7,Annona muricata L.,field
+train/photo/138662/256775.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\138662\256775.jpg,138662,46,Chrysothemis pulchella (Donn ex Sims) Decne.,field
+train/photo/138662/256950.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\138662\256950.jpg,138662,46,Chrysothemis pulchella (Donn ex Sims) Decne.,field
+train/photo/138662/256953.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\138662\256953.jpg,138662,46,Chrysothemis pulchella (Donn ex Sims) Decne.,field
+train/photo/138662/256746.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\138662\256746.jpg,138662,46,Chrysothemis pulchella (Donn ex Sims) Decne.,field
+train/herbarium/138662/256935.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\138662\256935.jpg,138662,46,Chrysothemis pulchella (Donn ex Sims) Decne.,herbarium
+train/herbarium/138662/256881.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\138662\256881.jpg,138662,46,Chrysothemis pulchella (Donn ex Sims) Decne.,herbarium
+train/herbarium/138662/256807.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\138662\256807.jpg,138662,46,Chrysothemis pulchella (Donn ex Sims) Decne.,herbarium
+train/herbarium/138662/256791.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\138662\256791.jpg,138662,46,Chrysothemis pulchella (Donn ex Sims) Decne.,herbarium
+train/herbarium/138662/256868.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\138662\256868.jpg,138662,46,Chrysothemis pulchella (Donn ex Sims) Decne.,herbarium
+train/herbarium/138662/256837.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\138662\256837.jpg,138662,46,Chrysothemis pulchella (Donn ex Sims) Decne.,herbarium
+train/herbarium/156516/256140.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\156516\256140.jpg,156516,66,Aniba guianensis Aubl.,herbarium
+train/herbarium/156516/256138.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\156516\256138.jpg,156516,66,Aniba guianensis Aubl.,herbarium
+train/herbarium/156516/256120.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\156516\256120.jpg,156516,66,Aniba guianensis Aubl.,herbarium
+train/herbarium/156516/256124.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\156516\256124.jpg,156516,66,Aniba guianensis Aubl.,herbarium
+train/photo/158341/256464.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158341\256464.jpg,158341,68,Nectandra cissiflora Nees,field
+train/photo/158341/256419.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158341\256419.jpg,158341,68,Nectandra cissiflora Nees,field
+train/photo/158341/256401.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158341\256401.jpg,158341,68,Nectandra cissiflora Nees,field
+train/photo/158341/256465.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158341\256465.jpg,158341,68,Nectandra cissiflora Nees,field
+train/photo/158341/256472.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158341\256472.jpg,158341,68,Nectandra cissiflora Nees,field
+train/photo/158341/256471.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158341\256471.jpg,158341,68,Nectandra cissiflora Nees,field
+train/herbarium/158341/256487.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158341\256487.jpg,158341,68,Nectandra cissiflora Nees,herbarium
+train/photo/158653/256189.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158653\256189.jpg,158653,70,Ocotea floribunda (Sw.) Mez,field
+train/photo/158653/256178.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158653\256178.jpg,158653,70,Ocotea floribunda (Sw.) Mez,field
+train/photo/158653/256177.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158653\256177.jpg,158653,70,Ocotea floribunda (Sw.) Mez,field
+train/photo/158653/256190.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158653\256190.jpg,158653,70,Ocotea floribunda (Sw.) Mez,field
+train/herbarium/158653/256308.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158653\256308.jpg,158653,70,Ocotea floribunda (Sw.) Mez,herbarium
+train/herbarium/158653/256344.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158653\256344.jpg,158653,70,Ocotea floribunda (Sw.) Mez,herbarium
+train/herbarium/158653/256376.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158653\256376.jpg,158653,70,Ocotea floribunda (Sw.) Mez,herbarium
+train/herbarium/158653/256212.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158653\256212.jpg,158653,70,Ocotea floribunda (Sw.) Mez,herbarium
+train/herbarium/158653/256311.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158653\256311.jpg,158653,70,Ocotea floribunda (Sw.) Mez,herbarium
+train/photo/158736/253488.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158736\253488.jpg,158736,71,Ocotea longifolia Kunth,field
+train/photo/158736/253503.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158736\253503.jpg,158736,71,Ocotea longifolia Kunth,field
+train/photo/158736/253500.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158736\253500.jpg,158736,71,Ocotea longifolia Kunth,field
+train/photo/158736/253504.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158736\253504.jpg,158736,71,Ocotea longifolia Kunth,field
+train/photo/158736/253497.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158736\253497.jpg,158736,71,Ocotea longifolia Kunth,field
+train/herbarium/158736/253749.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158736\253749.jpg,158736,71,Ocotea longifolia Kunth,herbarium
+train/herbarium/158736/253676.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158736\253676.jpg,158736,71,Ocotea longifolia Kunth,herbarium
+train/herbarium/158736/253709.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158736\253709.jpg,158736,71,Ocotea longifolia Kunth,herbarium
+train/herbarium/158736/253698.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158736\253698.jpg,158736,71,Ocotea longifolia Kunth,herbarium
+train/photo/158833/266175.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158833\266175.jpg,158833,73,Ocotea puberula (Rich.) Nees,field
+train/photo/158833/266117.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158833\266117.jpg,158833,73,Ocotea puberula (Rich.) Nees,field
+train/photo/158833/266119.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158833\266119.jpg,158833,73,Ocotea puberula (Rich.) Nees,field
+train/photo/158833/266123.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158833\266123.jpg,158833,73,Ocotea puberula (Rich.) Nees,field
+train/photo/158833/266184.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158833\266184.jpg,158833,73,Ocotea puberula (Rich.) Nees,field
+train/photo/158833/266122.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158833\266122.jpg,158833,73,Ocotea puberula (Rich.) Nees,field
+train/photo/158833/266171.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158833\266171.jpg,158833,73,Ocotea puberula (Rich.) Nees,field
+train/herbarium/158833/266275.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158833\266275.jpg,158833,73,Ocotea puberula (Rich.) Nees,herbarium
+train/herbarium/158833/266315.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158833\266315.jpg,158833,73,Ocotea puberula (Rich.) Nees,herbarium
+train/photo/166822/284.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\166822\284.jpg,166822,78,Caesalpinia pulcherrima (L.) Sw.,field
+train/photo/166822/172413.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\166822\172413.jpg,166822,78,Caesalpinia pulcherrima (L.) Sw.,field
+train/photo/166822/172411.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\166822\172411.jpg,166822,78,Caesalpinia pulcherrima (L.) Sw.,field
+train/photo/166822/172368.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\166822\172368.jpg,166822,78,Caesalpinia pulcherrima (L.) Sw.,field
+train/photo/166822/172421.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\166822\172421.jpg,166822,78,Caesalpinia pulcherrima (L.) Sw.,field
+train/photo/166822/172415.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\166822\172415.jpg,166822,78,Caesalpinia pulcherrima (L.) Sw.,field
+train/herbarium/166822/172247.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\166822\172247.jpg,166822,78,Caesalpinia pulcherrima (L.) Sw.,herbarium
+train/herbarium/166822/171436.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\166822\171436.jpg,166822,78,Caesalpinia pulcherrima (L.) Sw.,herbarium
+train/herbarium/166822/172042.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\166822\172042.jpg,166822,78,Caesalpinia pulcherrima (L.) Sw.,herbarium
+train/herbarium/169293/277907.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\169293\277907.jpg,169293,80,Crotalaria retusa L.,herbarium
+train/herbarium/169293/277108.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\169293\277108.jpg,169293,80,Crotalaria retusa L.,herbarium
+train/herbarium/169293/277828.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\169293\277828.jpg,169293,80,Crotalaria retusa L.,herbarium
+train/herbarium/169293/278482.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\169293\278482.jpg,169293,80,Crotalaria retusa L.,herbarium
+train/herbarium/169293/277867.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\169293\277867.jpg,169293,80,Crotalaria retusa L.,herbarium
+train/herbarium/173914/123409.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\173914\123409.jpg,173914,82,Inga alba (Sw.) Willd.,herbarium
+train/herbarium/173914/123482.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\173914\123482.jpg,173914,82,Inga alba (Sw.) Willd.,herbarium
+train/herbarium/173914/123395.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\173914\123395.jpg,173914,82,Inga alba (Sw.) Willd.,herbarium
+train/photo/173972/254500.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\173972\254500.jpg,173972,83,Inga capitata Desv.,field
+train/photo/173972/254496.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\173972\254496.jpg,173972,83,Inga capitata Desv.,field
+train/photo/173972/254493.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\173972\254493.jpg,173972,83,Inga capitata Desv.,field
+train/herbarium/173972/254742.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\173972\254742.jpg,173972,83,Inga capitata Desv.,herbarium
+train/herbarium/173972/254900.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\173972\254900.jpg,173972,83,Inga capitata Desv.,herbarium
+train/herbarium/173972/254699.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\173972\254699.jpg,173972,83,Inga capitata Desv.,herbarium
+train/herbarium/173972/254510.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\173972\254510.jpg,173972,83,Inga capitata Desv.,herbarium
+train/herbarium/173972/254870.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\173972\254870.jpg,173972,83,Inga capitata Desv.,herbarium
+train/photo/174017/1419.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\174017\1419.jpg,174017,84,Inga edulis Mart.,field
+train/photo/174017/1402.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\174017\1402.jpg,174017,84,Inga edulis Mart.,field
+train/photo/174017/1422.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\174017\1422.jpg,174017,84,Inga edulis Mart.,field
+train/photo/174017/1399.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\174017\1399.jpg,174017,84,Inga edulis Mart.,field
+train/photo/174017/1412.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\174017\1412.jpg,174017,84,Inga edulis Mart.,field
+train/herbarium/174017/245239.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\174017\245239.jpg,174017,84,Inga edulis Mart.,herbarium
+train/herbarium/174017/245160.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\174017\245160.jpg,174017,84,Inga edulis Mart.,herbarium
+train/herbarium/177730/280821.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\177730\280821.jpg,177730,85,Mimosa pigra L.,herbarium
+train/herbarium/177730/280728.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\177730\280728.jpg,177730,85,Mimosa pigra L.,herbarium
+train/herbarium/177730/280619.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\177730\280619.jpg,177730,85,Mimosa pigra L.,herbarium
+train/herbarium/177730/280718.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\177730\280718.jpg,177730,85,Mimosa pigra L.,herbarium
+train/photo/177775/304003.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\177775\304003.jpg,177775,86,Mimosa pudica L.,field
+train/photo/177775/303995.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\177775\303995.jpg,177775,86,Mimosa pudica L.,field
+train/photo/177775/304006.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\177775\304006.jpg,177775,86,Mimosa pudica L.,field
+train/herbarium/177775/304266.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\177775\304266.jpg,177775,86,Mimosa pudica L.,herbarium
+train/herbarium/177775/304147.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\177775\304147.jpg,177775,86,Mimosa pudica L.,herbarium
+train/herbarium/177775/304070.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\177775\304070.jpg,177775,86,Mimosa pudica L.,herbarium
+train/herbarium/177775/304326.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\177775\304326.jpg,177775,86,Mimosa pudica L.,herbarium
+train/photo/189669/305994.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\189669\305994.jpg,189669,87,Punica granatum L.,field
+train/photo/189669/305988.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\189669\305988.jpg,189669,87,Punica granatum L.,field
+train/photo/189669/306028.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\189669\306028.jpg,189669,87,Punica granatum L.,field
+train/herbarium/189669/305939.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\189669\305939.jpg,189669,87,Punica granatum L.,herbarium
+train/herbarium/189669/305800.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\189669\305800.jpg,189669,87,Punica granatum L.,herbarium
+train/herbarium/189669/305803.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\189669\305803.jpg,189669,87,Punica granatum L.,herbarium
+train/herbarium/189669/305852.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\189669\305852.jpg,189669,87,Punica granatum L.,herbarium
+train/herbarium/189669/305757.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\189669\305757.jpg,189669,87,Punica granatum L.,herbarium
+train/herbarium/189669/305870.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\189669\305870.jpg,189669,87,Punica granatum L.,herbarium
+train/photo/191642/50487.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\191642\50487.jpg,191642,88,Adansonia digitata L.,field
+train/photo/191642/50478.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\191642\50478.jpg,191642,88,Adansonia digitata L.,field
+train/herbarium/191642/50356.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\191642\50356.jpg,191642,88,Adansonia digitata L.,herbarium
+train/herbarium/191642/50306.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\191642\50306.jpg,191642,88,Adansonia digitata L.,herbarium
+train/herbarium/191642/50424.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\191642\50424.jpg,191642,88,Adansonia digitata L.,herbarium
+train/herbarium/191642/50217.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\191642\50217.jpg,191642,88,Adansonia digitata L.,herbarium
+train/herbarium/191642/50317.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\191642\50317.jpg,191642,88,Adansonia digitata L.,herbarium
+train/herbarium/191642/50300.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\191642\50300.jpg,191642,88,Adansonia digitata L.,herbarium
+train/photo/19165/21635.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\19165\21635.jpg,19165,14,Allamanda cathartica L.,field
+train/photo/19165/20979.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\19165\20979.jpg,19165,14,Allamanda cathartica L.,field
+train/photo/19165/21576.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\19165\21576.jpg,19165,14,Allamanda cathartica L.,field
+train/photo/19165/21523.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\19165\21523.jpg,19165,14,Allamanda cathartica L.,field
+train/herbarium/19165/21475.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\19165\21475.jpg,19165,14,Allamanda cathartica L.,herbarium
+train/herbarium/19165/21547.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\19165\21547.jpg,19165,14,Allamanda cathartica L.,herbarium
+train/herbarium/19165/21432.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\19165\21432.jpg,19165,14,Allamanda cathartica L.,herbarium
+train/photo/192311/50911.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\192311\50911.jpg,192311,89,Ceiba pentandra (L.) Gaertn.,field
+train/photo/192311/50915.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\192311\50915.jpg,192311,89,Ceiba pentandra (L.) Gaertn.,field
+train/photo/192311/50899.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\192311\50899.jpg,192311,89,Ceiba pentandra (L.) Gaertn.,field
+train/photo/192311/50910.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\192311\50910.jpg,192311,89,Ceiba pentandra (L.) Gaertn.,field
+train/herbarium/192311/50875.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\192311\50875.jpg,192311,89,Ceiba pentandra (L.) Gaertn.,herbarium
+train/herbarium/192311/50612.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\192311\50612.jpg,192311,89,Ceiba pentandra (L.) Gaertn.,herbarium
+train/herbarium/192311/50571.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\192311\50571.jpg,192311,89,Ceiba pentandra (L.) Gaertn.,herbarium
+train/herbarium/192311/50603.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\192311\50603.jpg,192311,89,Ceiba pentandra (L.) Gaertn.,herbarium
+train/herbarium/192311/50752.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\192311\50752.jpg,192311,89,Ceiba pentandra (L.) Gaertn.,herbarium
+train/photo/194035/173000.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\194035\173000.jpg,194035,90,Hibiscus rosa-sinensis L.,field
+train/photo/194035/172971.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\194035\172971.jpg,194035,90,Hibiscus rosa-sinensis L.,field
+train/photo/194035/172956.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\194035\172956.jpg,194035,90,Hibiscus rosa-sinensis L.,field
+train/photo/194035/173095.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\194035\173095.jpg,194035,90,Hibiscus rosa-sinensis L.,field
+train/photo/194035/173081.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\194035\173081.jpg,194035,90,Hibiscus rosa-sinensis L.,field
+train/herbarium/194035/172700.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\194035\172700.jpg,194035,90,Hibiscus rosa-sinensis L.,herbarium
+train/herbarium/194035/172640.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\194035\172640.jpg,194035,90,Hibiscus rosa-sinensis L.,herbarium
+train/photo/19489/32607.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\19489\32607.jpg,19489,15,Asclepias curassavica L.,field
+train/photo/19489/34316.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\19489\34316.jpg,19489,15,Asclepias curassavica L.,field
+train/photo/19489/207.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\19489\207.jpg,19489,15,Asclepias curassavica L.,field
+train/photo/19489/34315.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\19489\34315.jpg,19489,15,Asclepias curassavica L.,field
+train/herbarium/19489/33356.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\19489\33356.jpg,19489,15,Asclepias curassavica L.,herbarium
+train/herbarium/19489/33715.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\19489\33715.jpg,19489,15,Asclepias curassavica L.,herbarium
+train/herbarium/19489/33350.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\19489\33350.jpg,19489,15,Asclepias curassavica L.,herbarium
+train/herbarium/19489/33992.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\19489\33992.jpg,19489,15,Asclepias curassavica L.,herbarium
+train/herbarium/19489/32747.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\19489\32747.jpg,19489,15,Asclepias curassavica L.,herbarium
+train/herbarium/19489/33218.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\19489\33218.jpg,19489,15,Asclepias curassavica L.,herbarium
+train/photo/209328/135191.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\209328\135191.jpg,209328,91,Psidium guineense Sw.,field
+train/photo/209328/135189.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\209328\135189.jpg,209328,91,Psidium guineense Sw.,field
+train/photo/209328/135180.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\209328\135180.jpg,209328,91,Psidium guineense Sw.,field
+train/photo/209328/135185.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\209328\135185.jpg,209328,91,Psidium guineense Sw.,field
+train/photo/209328/136050.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\209328\136050.jpg,209328,91,Psidium guineense Sw.,field
+train/photo/209328/136048.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\209328\136048.jpg,209328,91,Psidium guineense Sw.,field
+train/herbarium/209328/135409.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\209328\135409.jpg,209328,91,Psidium guineense Sw.,herbarium
+train/herbarium/209328/135775.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\209328\135775.jpg,209328,91,Psidium guineense Sw.,herbarium
+train/herbarium/209328/135430.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\209328\135430.jpg,209328,91,Psidium guineense Sw.,herbarium
+train/photo/211059/186885.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\211059\186885.jpg,211059,92,Nephrolepis biserrata (Sw.) Schott,field
+train/photo/211059/186883.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\211059\186883.jpg,211059,92,Nephrolepis biserrata (Sw.) Schott,field
+train/photo/211059/186729.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\211059\186729.jpg,211059,92,Nephrolepis biserrata (Sw.) Schott,field
+train/herbarium/211059/187842.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\211059\187842.jpg,211059,92,Nephrolepis biserrata (Sw.) Schott,herbarium
+train/herbarium/211059/187644.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\211059\187644.jpg,211059,92,Nephrolepis biserrata (Sw.) Schott,herbarium
+train/herbarium/211059/186538.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\211059\186538.jpg,211059,92,Nephrolepis biserrata (Sw.) Schott,herbarium
+train/herbarium/211059/187864.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\211059\187864.jpg,211059,92,Nephrolepis biserrata (Sw.) Schott,herbarium
+train/herbarium/211059/186691.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\211059\186691.jpg,211059,92,Nephrolepis biserrata (Sw.) Schott,herbarium
+train/herbarium/211059/188464.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\211059\188464.jpg,211059,92,Nephrolepis biserrata (Sw.) Schott,herbarium
+train/photo/244705/305714.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\244705\305714.jpg,244705,93,Averrhoa carambola L.,field
+train/photo/244705/305727.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\244705\305727.jpg,244705,93,Averrhoa carambola L.,field
+train/photo/244705/305683.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\244705\305683.jpg,244705,93,Averrhoa carambola L.,field
+train/photo/244705/305711.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\244705\305711.jpg,244705,93,Averrhoa carambola L.,field
+train/photo/244705/305725.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\244705\305725.jpg,244705,93,Averrhoa carambola L.,field
+train/herbarium/244705/305454.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\244705\305454.jpg,244705,93,Averrhoa carambola L.,herbarium
+train/herbarium/244705/305459.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\244705\305459.jpg,244705,93,Averrhoa carambola L.,herbarium
+train/herbarium/244705/305506.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\244705\305506.jpg,244705,93,Averrhoa carambola L.,herbarium
+train/herbarium/244705/305512.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\244705\305512.jpg,244705,93,Averrhoa carambola L.,herbarium
+train/photo/248392/145751.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\248392\145751.jpg,248392,94,Turnera ulmifolia L.,field
+train/photo/248392/146220.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\248392\146220.jpg,248392,94,Turnera ulmifolia L.,field
+train/photo/248392/2816.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\248392\2816.jpg,248392,94,Turnera ulmifolia L.,field
+train/herbarium/248392/146105.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\248392\146105.jpg,248392,94,Turnera ulmifolia L.,herbarium
+train/herbarium/248392/145601.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\248392\145601.jpg,248392,94,Turnera ulmifolia L.,herbarium
+train/herbarium/248392/146017.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\248392\146017.jpg,248392,94,Turnera ulmifolia L.,herbarium
+train/herbarium/248392/145789.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\248392\145789.jpg,248392,94,Turnera ulmifolia L.,herbarium
+train/photo/254180/2052.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\254180\2052.jpg,254180,95,Piper peltatum L.,field
+train/photo/254180/2047.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\254180\2047.jpg,254180,95,Piper peltatum L.,field
+train/photo/254180/2043.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\254180\2043.jpg,254180,95,Piper peltatum L.,field
+train/photo/254180/2060.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\254180\2060.jpg,254180,95,Piper peltatum L.,field
+train/photo/254180/232946.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\254180\232946.jpg,254180,95,Piper peltatum L.,field
+train/herbarium/254180/233034.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\254180\233034.jpg,254180,95,Piper peltatum L.,herbarium
+train/herbarium/254180/233088.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\254180\233088.jpg,254180,95,Piper peltatum L.,herbarium
+train/herbarium/254180/232905.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\254180\232905.jpg,254180,95,Piper peltatum L.,herbarium
+train/herbarium/254180/233076.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\254180\233076.jpg,254180,95,Piper peltatum L.,herbarium
+train/photo/275029/155674.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\275029\155674.jpg,275029,96,Eichhornia crassipes (Mart.) Solms,field
+train/photo/275029/155664.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\275029\155664.jpg,275029,96,Eichhornia crassipes (Mart.) Solms,field
+train/photo/275029/154725.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\275029\154725.jpg,275029,96,Eichhornia crassipes (Mart.) Solms,field
+train/photo/275029/155673.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\275029\155673.jpg,275029,96,Eichhornia crassipes (Mart.) Solms,field
+train/herbarium/275029/155649.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\275029\155649.jpg,275029,96,Eichhornia crassipes (Mart.) Solms,herbarium
+train/herbarium/275029/155394.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\275029\155394.jpg,275029,96,Eichhornia crassipes (Mart.) Solms,herbarium
+train/herbarium/275029/155445.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\275029\155445.jpg,275029,96,Eichhornia crassipes (Mart.) Solms,herbarium
+train/herbarium/275029/155219.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\275029\155219.jpg,275029,96,Eichhornia crassipes (Mart.) Solms,herbarium
+train/photo/280085/214824.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\280085\214824.jpg,280085,97,Ceratopteris thalictroides (L.) Brongn.,field
+train/photo/280085/214846.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\280085\214846.jpg,280085,97,Ceratopteris thalictroides (L.) Brongn.,field
+train/herbarium/280085/214889.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280085\214889.jpg,280085,97,Ceratopteris thalictroides (L.) Brongn.,herbarium
+train/herbarium/280085/215156.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280085\215156.jpg,280085,97,Ceratopteris thalictroides (L.) Brongn.,herbarium
+train/herbarium/280085/215452.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280085\215452.jpg,280085,97,Ceratopteris thalictroides (L.) Brongn.,herbarium
+train/herbarium/280085/215559.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280085\215559.jpg,280085,97,Ceratopteris thalictroides (L.) Brongn.,herbarium
+train/herbarium/280085/215364.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280085\215364.jpg,280085,97,Ceratopteris thalictroides (L.) Brongn.,herbarium
+train/photo/280698/216080.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\280698\216080.jpg,280698,98,Pityrogramma calomelanos (L.) Link,field
+train/photo/280698/216158.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\280698\216158.jpg,280698,98,Pityrogramma calomelanos (L.) Link,field
+train/photo/280698/216126.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\280698\216126.jpg,280698,98,Pityrogramma calomelanos (L.) Link,field
+train/photo/280698/216119.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\280698\216119.jpg,280698,98,Pityrogramma calomelanos (L.) Link,field
+train/herbarium/280698/216387.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280698\216387.jpg,280698,98,Pityrogramma calomelanos (L.) Link,herbarium
+train/herbarium/280698/217821.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280698\217821.jpg,280698,98,Pityrogramma calomelanos (L.) Link,herbarium
+train/herbarium/280698/218801.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280698\218801.jpg,280698,98,Pityrogramma calomelanos (L.) Link,herbarium
+train/herbarium/280698/218741.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280698\218741.jpg,280698,98,Pityrogramma calomelanos (L.) Link,herbarium
+train/photo/285398/262018.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\285398\262018.jpg,285398,99,Cassipourea guianensis Aubl.,field
+train/photo/285398/262032.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\285398\262032.jpg,285398,99,Cassipourea guianensis Aubl.,field
+train/photo/285398/262851.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\285398\262851.jpg,285398,99,Cassipourea guianensis Aubl.,field
+train/photo/285398/262021.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\285398\262021.jpg,285398,99,Cassipourea guianensis Aubl.,field
+train/photo/285398/262033.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\285398\262033.jpg,285398,99,Cassipourea guianensis Aubl.,field
+train/herbarium/285398/262746.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\285398\262746.jpg,285398,99,Cassipourea guianensis Aubl.,herbarium
+train/herbarium/285398/262206.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\285398\262206.jpg,285398,99,Cassipourea guianensis Aubl.,herbarium
+train/photo/29686/26344.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\29686\26344.jpg,29686,16,Oreopanax capitatus (Jacq.) Decne. Planch.,field
+train/photo/29686/26336.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\29686\26336.jpg,29686,16,Oreopanax capitatus (Jacq.) Decne. Planch.,field
+train/photo/29686/26343.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\29686\26343.jpg,29686,16,Oreopanax capitatus (Jacq.) Decne. Planch.,field
+train/photo/29686/26435.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\29686\26435.jpg,29686,16,Oreopanax capitatus (Jacq.) Decne. Planch.,field
+train/herbarium/29686/26678.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\29686\26678.jpg,29686,16,Oreopanax capitatus (Jacq.) Decne. Planch.,herbarium
+train/herbarium/29686/26552.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\29686\26552.jpg,29686,16,Oreopanax capitatus (Jacq.) Decne. Planch.,herbarium
+train/herbarium/29686/26481.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\29686\26481.jpg,29686,16,Oreopanax capitatus (Jacq.) Decne. Planch.,herbarium
+train/photo/106023/302206.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\106023\302206.jpg,106023,18,Merremia umbellata (L.) Hallier f.,field
+train/photo/106023/302708.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\106023\302708.jpg,106023,18,Merremia umbellata (L.) Hallier f.,field
+train/photo/106023/1769.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\106023\1769.jpg,106023,18,Merremia umbellata (L.) Hallier f.,field
+train/photo/106023/302205.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\106023\302205.jpg,106023,18,Merremia umbellata (L.) Hallier f.,field
+train/photo/106023/302709.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\106023\302709.jpg,106023,18,Merremia umbellata (L.) Hallier f.,field
+train/herbarium/106023/302171.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106023\302171.jpg,106023,18,Merremia umbellata (L.) Hallier f.,herbarium
+train/herbarium/106023/302137.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106023\302137.jpg,106023,18,Merremia umbellata (L.) Hallier f.,herbarium
+train/herbarium/106023/302651.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106023\302651.jpg,106023,18,Merremia umbellata (L.) Hallier f.,herbarium
+train/herbarium/106023/302100.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106023\302100.jpg,106023,18,Merremia umbellata (L.) Hallier f.,herbarium
+train/herbarium/106023/302270.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106023\302270.jpg,106023,18,Merremia umbellata (L.) Hallier f.,herbarium
+train/herbarium/106466/169184.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106466\169184.jpg,106466,21,Costus spiralis (Jacq.) Roscoe,herbarium
+train/herbarium/106466/169175.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106466\169175.jpg,106466,21,Costus spiralis (Jacq.) Roscoe,herbarium
+train/herbarium/106466/169177.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106466\169177.jpg,106466,21,Costus spiralis (Jacq.) Roscoe,herbarium
+train/herbarium/106466/169173.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106466\169173.jpg,106466,21,Costus spiralis (Jacq.) Roscoe,herbarium
+train/herbarium/106466/169192.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106466\169192.jpg,106466,21,Costus spiralis (Jacq.) Roscoe,herbarium
+train/photo/110432/293570.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\110432\293570.jpg,110432,22,Evodianthus funifer (Poit.) Lindm.,field
+train/photo/110432/1013.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\110432\1013.jpg,110432,22,Evodianthus funifer (Poit.) Lindm.,field
+train/herbarium/110432/293564.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\110432\293564.jpg,110432,22,Evodianthus funifer (Poit.) Lindm.,herbarium
+train/herbarium/110432/293582.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\110432\293582.jpg,110432,22,Evodianthus funifer (Poit.) Lindm.,herbarium
+train/herbarium/110432/293526.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\110432\293526.jpg,110432,22,Evodianthus funifer (Poit.) Lindm.,herbarium
+train/photo/121836/2514.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\121836\2514.jpg,121836,26,Sloanea grandiflora Sm.,field
+train/photo/121836/2518.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\121836\2518.jpg,121836,26,Sloanea grandiflora Sm.,field
+train/herbarium/121836/86162.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121836\86162.jpg,121836,26,Sloanea grandiflora Sm.,herbarium
+train/herbarium/121836/86254.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121836\86254.jpg,121836,26,Sloanea grandiflora Sm.,herbarium
+train/herbarium/121836/86227.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121836\86227.jpg,121836,26,Sloanea grandiflora Sm.,herbarium
+train/herbarium/121836/86260.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121836\86260.jpg,121836,26,Sloanea grandiflora Sm.,herbarium
+train/herbarium/12254/10571.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12254\10571.jpg,12254,0,Anacardium occidentale L.,herbarium
+train/herbarium/12254/9542.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12254\9542.jpg,12254,0,Anacardium occidentale L.,herbarium
+train/herbarium/12254/10475.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12254\10475.jpg,12254,0,Anacardium occidentale L.,herbarium
+train/herbarium/12254/10115.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12254\10115.jpg,12254,0,Anacardium occidentale L.,herbarium
+train/photo/127097/261736.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\127097\261736.jpg,127097,31,Erythroxylum fimbriatum Peyr.,field
+train/photo/127097/261724.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\127097\261724.jpg,127097,31,Erythroxylum fimbriatum Peyr.,field
+train/herbarium/127097/261759.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127097\261759.jpg,127097,31,Erythroxylum fimbriatum Peyr.,herbarium
+train/herbarium/127097/261727.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127097\261727.jpg,127097,31,Erythroxylum fimbriatum Peyr.,herbarium
+train/herbarium/127097/261744.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127097\261744.jpg,127097,31,Erythroxylum fimbriatum Peyr.,herbarium
+train/herbarium/127097/261739.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127097\261739.jpg,127097,31,Erythroxylum fimbriatum Peyr.,herbarium
+train/herbarium/127097/261766.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127097\261766.jpg,127097,31,Erythroxylum fimbriatum Peyr.,herbarium
+train/herbarium/127097/261751.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127097\261751.jpg,127097,31,Erythroxylum fimbriatum Peyr.,herbarium
+train/photo/129645/260663.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\129645\260663.jpg,129645,34,Croton schiedeanus Schltdl.,field
+train/photo/129645/260681.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\129645\260681.jpg,129645,34,Croton schiedeanus Schltdl.,field
+train/photo/129645/260674.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\129645\260674.jpg,129645,34,Croton schiedeanus Schltdl.,field
+train/photo/129645/260678.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\129645\260678.jpg,129645,34,Croton schiedeanus Schltdl.,field
+train/herbarium/129645/260724.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\129645\260724.jpg,129645,34,Croton schiedeanus Schltdl.,herbarium
+train/herbarium/129645/260834.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\129645\260834.jpg,129645,34,Croton schiedeanus Schltdl.,herbarium
+train/herbarium/129645/260742.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\129645\260742.jpg,129645,34,Croton schiedeanus Schltdl.,herbarium
+train/herbarium/129645/260784.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\129645\260784.jpg,129645,34,Croton schiedeanus Schltdl.,herbarium
+train/photo/132107/310724.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\132107\310724.jpg,132107,38,Euphorbia thymifolia L.,field
+train/herbarium/132107/310387.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132107\310387.jpg,132107,38,Euphorbia thymifolia L.,herbarium
+train/herbarium/132107/310718.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132107\310718.jpg,132107,38,Euphorbia thymifolia L.,herbarium
+train/herbarium/132107/309952.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132107\309952.jpg,132107,38,Euphorbia thymifolia L.,herbarium
+train/herbarium/132107/310126.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132107\310126.jpg,132107,38,Euphorbia thymifolia L.,herbarium
+train/herbarium/132107/310250.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132107\310250.jpg,132107,38,Euphorbia thymifolia L.,herbarium
+train/herbarium/132107/310148.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132107\310148.jpg,132107,38,Euphorbia thymifolia L.,herbarium
+train/herbarium/132107/310546.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132107\310546.jpg,132107,38,Euphorbia thymifolia L.,herbarium
+train/herbarium/132107/309985.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132107\309985.jpg,132107,38,Euphorbia thymifolia L.,herbarium
+train/photo/132476/281949.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\132476\281949.jpg,132476,41,Jatropha curcas L.,field
+train/photo/132476/1567.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\132476\1567.jpg,132476,41,Jatropha curcas L.,field
+train/herbarium/132476/281595.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132476\281595.jpg,132476,41,Jatropha curcas L.,herbarium
+train/herbarium/132476/281676.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132476\281676.jpg,132476,41,Jatropha curcas L.,herbarium
+train/herbarium/132476/281559.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132476\281559.jpg,132476,41,Jatropha curcas L.,herbarium
+train/herbarium/132476/281530.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132476\281530.jpg,132476,41,Jatropha curcas L.,herbarium
+train/herbarium/132476/281498.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132476\281498.jpg,132476,41,Jatropha curcas L.,herbarium
+train/herbarium/132476/281673.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132476\281673.jpg,132476,41,Jatropha curcas L.,herbarium
+train/herbarium/132501/307526.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132501\307526.jpg,132501,42,Jatropha gossypiifolia L.,herbarium
+train/herbarium/132501/307281.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132501\307281.jpg,132501,42,Jatropha gossypiifolia L.,herbarium
+train/herbarium/132501/307613.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132501\307613.jpg,132501,42,Jatropha gossypiifolia L.,herbarium
+train/herbarium/132501/307400.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132501\307400.jpg,132501,42,Jatropha gossypiifolia L.,herbarium
+train/herbarium/132501/307514.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132501\307514.jpg,132501,42,Jatropha gossypiifolia L.,herbarium
+train/photo/13330/15787.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13330\15787.jpg,13330,6,Annona glabra L.,field
+train/photo/13330/16141.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13330\16141.jpg,13330,6,Annona glabra L.,field
+train/photo/13330/15796.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13330\15796.jpg,13330,6,Annona glabra L.,field
+train/photo/13330/16094.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13330\16094.jpg,13330,6,Annona glabra L.,field
+train/photo/13330/16139.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13330\16139.jpg,13330,6,Annona glabra L.,field
+train/photo/13330/15788.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13330\15788.jpg,13330,6,Annona glabra L.,field
+train/herbarium/13330/15821.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13330\15821.jpg,13330,6,Annona glabra L.,herbarium
+train/herbarium/13330/16016.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13330\16016.jpg,13330,6,Annona glabra L.,herbarium
+train/herbarium/13330/15828.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13330\15828.jpg,13330,6,Annona glabra L.,herbarium
+train/herbarium/13330/15834.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13330\15834.jpg,13330,6,Annona glabra L.,herbarium
+train/herbarium/140367/260936.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\140367\260936.jpg,140367,47,Lembocarpus amoenus Leeuwenb.,herbarium
+train/herbarium/140367/260940.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\140367\260940.jpg,140367,47,Lembocarpus amoenus Leeuwenb.,herbarium
+train/herbarium/140367/260927.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\140367\260927.jpg,140367,47,Lembocarpus amoenus Leeuwenb.,herbarium
+train/herbarium/140367/260929.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\140367\260929.jpg,140367,47,Lembocarpus amoenus Leeuwenb.,herbarium
+train/herbarium/140367/260934.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\140367\260934.jpg,140367,47,Lembocarpus amoenus Leeuwenb.,herbarium
+train/photo/141068/267692.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\141068\267692.jpg,141068,48,Sinningia incarnata (Aubl.) D.L.Denham,field
+train/photo/141068/267696.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\141068\267696.jpg,141068,48,Sinningia incarnata (Aubl.) D.L.Denham,field
+train/photo/141068/267686.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\141068\267686.jpg,141068,48,Sinningia incarnata (Aubl.) D.L.Denham,field
+train/herbarium/141068/267513.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141068\267513.jpg,141068,48,Sinningia incarnata (Aubl.) D.L.Denham,herbarium
+train/herbarium/141068/267623.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141068\267623.jpg,141068,48,Sinningia incarnata (Aubl.) D.L.Denham,herbarium
+train/herbarium/141068/267581.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141068\267581.jpg,141068,48,Sinningia incarnata (Aubl.) D.L.Denham,herbarium
+train/herbarium/141068/267535.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141068\267535.jpg,141068,48,Sinningia incarnata (Aubl.) D.L.Denham,herbarium
+train/herbarium/141068/267497.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141068\267497.jpg,141068,48,Sinningia incarnata (Aubl.) D.L.Denham,herbarium
+train/photo/142550/265671.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\142550\265671.jpg,142550,51,Heliconia chartacea Lane ex Barreiros,field
+train/photo/142550/265667.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\142550\265667.jpg,142550,51,Heliconia chartacea Lane ex Barreiros,field
+train/herbarium/142550/265639.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142550\265639.jpg,142550,51,Heliconia chartacea Lane ex Barreiros,herbarium
+train/herbarium/142550/265700.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142550\265700.jpg,142550,51,Heliconia chartacea Lane ex Barreiros,herbarium
+train/herbarium/142550/265638.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142550\265638.jpg,142550,51,Heliconia chartacea Lane ex Barreiros,herbarium
+train/herbarium/142550/265672.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142550\265672.jpg,142550,51,Heliconia chartacea Lane ex Barreiros,herbarium
+train/herbarium/142736/88439.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142736\88439.jpg,142736,52,Hernandia guianensis Aubl.,herbarium
+train/herbarium/142736/88433.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142736\88433.jpg,142736,52,Hernandia guianensis Aubl.,herbarium
+train/herbarium/142736/88440.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142736\88440.jpg,142736,52,Hernandia guianensis Aubl.,herbarium
+train/herbarium/142736/88415.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142736\88415.jpg,142736,52,Hernandia guianensis Aubl.,herbarium
+train/herbarium/142736/88425.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142736\88425.jpg,142736,52,Hernandia guianensis Aubl.,herbarium
+train/photo/143496/197315.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\143496\197315.jpg,143496,53,Hymenophyllum hirsutum (L.) Sw.,field
+train/photo/143496/197310.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\143496\197310.jpg,143496,53,Hymenophyllum hirsutum (L.) Sw.,field
+train/photo/143496/197296.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\143496\197296.jpg,143496,53,Hymenophyllum hirsutum (L.) Sw.,field
+train/photo/143496/197316.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\143496\197316.jpg,143496,53,Hymenophyllum hirsutum (L.) Sw.,field
+train/photo/143496/197314.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\143496\197314.jpg,143496,53,Hymenophyllum hirsutum (L.) Sw.,field
+train/herbarium/143496/197748.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143496\197748.jpg,143496,53,Hymenophyllum hirsutum (L.) Sw.,herbarium
+train/herbarium/143496/198062.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143496\198062.jpg,143496,53,Hymenophyllum hirsutum (L.) Sw.,herbarium
+train/herbarium/143496/197144.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143496\197144.jpg,143496,53,Hymenophyllum hirsutum (L.) Sw.,herbarium
+train/photo/14353/1129.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\14353\1129.jpg,14353,8,Guatteria ouregou (Aubl.) Dunal,field
+train/photo/14353/1125.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\14353\1125.jpg,14353,8,Guatteria ouregou (Aubl.) Dunal,field
+train/photo/14353/1121.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\14353\1121.jpg,14353,8,Guatteria ouregou (Aubl.) Dunal,field
+train/herbarium/14353/17970.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14353\17970.jpg,14353,8,Guatteria ouregou (Aubl.) Dunal,herbarium
+train/herbarium/14353/18183.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14353\18183.jpg,14353,8,Guatteria ouregou (Aubl.) Dunal,herbarium
+train/herbarium/14353/18010.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14353\18010.jpg,14353,8,Guatteria ouregou (Aubl.) Dunal,herbarium
+train/herbarium/14353/18084.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14353\18084.jpg,14353,8,Guatteria ouregou (Aubl.) Dunal,herbarium
+train/herbarium/14353/18017.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14353\18017.jpg,14353,8,Guatteria ouregou (Aubl.) Dunal,herbarium
+train/photo/144394/190468.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\144394\190468.jpg,144394,56,Didymochlaena truncatula (Sw.) J. Sm.,field
+train/herbarium/144394/190818.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\144394\190818.jpg,144394,56,Didymochlaena truncatula (Sw.) J. Sm.,herbarium
+train/herbarium/144394/190510.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\144394\190510.jpg,144394,56,Didymochlaena truncatula (Sw.) J. Sm.,herbarium
+train/herbarium/144394/190506.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\144394\190506.jpg,144394,56,Didymochlaena truncatula (Sw.) J. Sm.,herbarium
+train/herbarium/144394/190739.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\144394\190739.jpg,144394,56,Didymochlaena truncatula (Sw.) J. Sm.,herbarium
+train/herbarium/144394/190804.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\144394\190804.jpg,144394,56,Didymochlaena truncatula (Sw.) J. Sm.,herbarium
+train/herbarium/144394/190547.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\144394\190547.jpg,144394,56,Didymochlaena truncatula (Sw.) J. Sm.,herbarium
+train/photo/148977/530.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\148977\530.jpg,148977,59,Clerodendrum paniculatum L.,field
+train/photo/148977/534.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\148977\534.jpg,148977,59,Clerodendrum paniculatum L.,field
+train/photo/148977/536.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\148977\536.jpg,148977,59,Clerodendrum paniculatum L.,field
+train/photo/148977/532.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\148977\532.jpg,148977,59,Clerodendrum paniculatum L.,field
+train/photo/148977/291232.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\148977\291232.jpg,148977,59,Clerodendrum paniculatum L.,field
+train/photo/148977/291236.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\148977\291236.jpg,148977,59,Clerodendrum paniculatum L.,field
+train/herbarium/148977/291351.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148977\291351.jpg,148977,59,Clerodendrum paniculatum L.,herbarium
+train/herbarium/148977/291343.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148977\291343.jpg,148977,59,Clerodendrum paniculatum L.,herbarium
+train/herbarium/148977/291273.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148977\291273.jpg,148977,59,Clerodendrum paniculatum L.,herbarium
+train/herbarium/148977/291337.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148977\291337.jpg,148977,59,Clerodendrum paniculatum L.,herbarium
+train/photo/149919/290220.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\149919\290220.jpg,149919,62,Holmskioldia sanguinea Retz.,field
+train/photo/149919/290222.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\149919\290222.jpg,149919,62,Holmskioldia sanguinea Retz.,field
+train/herbarium/149919/290103.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149919\290103.jpg,149919,62,Holmskioldia sanguinea Retz.,herbarium
+train/herbarium/149919/290028.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149919\290028.jpg,149919,62,Holmskioldia sanguinea Retz.,herbarium
+train/herbarium/149919/290122.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149919\290122.jpg,149919,62,Holmskioldia sanguinea Retz.,herbarium
+train/herbarium/149919/290111.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149919\290111.jpg,149919,62,Holmskioldia sanguinea Retz.,herbarium
+train/herbarium/149919/290064.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149919\290064.jpg,149919,62,Holmskioldia sanguinea Retz.,herbarium
+train/herbarium/149919/290146.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149919\290146.jpg,149919,62,Holmskioldia sanguinea Retz.,herbarium
+train/herbarium/149919/290083.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149919\290083.jpg,149919,62,Holmskioldia sanguinea Retz.,herbarium
+train/photo/150135/295077.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\150135\295077.jpg,150135,63,Hyptis lanceolata Poir.,field
+train/photo/150135/295083.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\150135\295083.jpg,150135,63,Hyptis lanceolata Poir.,field
+train/photo/150135/295079.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\150135\295079.jpg,150135,63,Hyptis lanceolata Poir.,field
+train/herbarium/150135/295090.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\150135\295090.jpg,150135,63,Hyptis lanceolata Poir.,herbarium
+train/herbarium/150135/295162.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\150135\295162.jpg,150135,63,Hyptis lanceolata Poir.,herbarium
+train/herbarium/150135/295110.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\150135\295110.jpg,150135,63,Hyptis lanceolata Poir.,herbarium
+train/herbarium/150135/295123.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\150135\295123.jpg,150135,63,Hyptis lanceolata Poir.,herbarium
+train/photo/151469/308257.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\151469\308257.jpg,151469,64,Ocimum campechianum Mill.,field
+train/photo/151469/308259.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\151469\308259.jpg,151469,64,Ocimum campechianum Mill.,field
+train/photo/151469/308550.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\151469\308550.jpg,151469,64,Ocimum campechianum Mill.,field
+train/herbarium/151469/308385.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151469\308385.jpg,151469,64,Ocimum campechianum Mill.,herbarium
+train/herbarium/151469/308306.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151469\308306.jpg,151469,64,Ocimum campechianum Mill.,herbarium
+train/herbarium/151469/308450.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151469\308450.jpg,151469,64,Ocimum campechianum Mill.,herbarium
+train/herbarium/151469/308262.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151469\308262.jpg,151469,64,Ocimum campechianum Mill.,herbarium
+train/photo/15318/20098.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\15318\20098.jpg,15318,11,Xylopia aromatica (Lam.) Mart.,field
+train/photo/15318/19914.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\15318\19914.jpg,15318,11,Xylopia aromatica (Lam.) Mart.,field
+train/photo/15318/19911.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\15318\19911.jpg,15318,11,Xylopia aromatica (Lam.) Mart.,field
+train/photo/15318/20055.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\15318\20055.jpg,15318,11,Xylopia aromatica (Lam.) Mart.,field
+train/photo/15318/19913.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\15318\19913.jpg,15318,11,Xylopia aromatica (Lam.) Mart.,field
+train/herbarium/15318/19896.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15318\19896.jpg,15318,11,Xylopia aromatica (Lam.) Mart.,herbarium
+train/herbarium/15318/19718.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15318\19718.jpg,15318,11,Xylopia aromatica (Lam.) Mart.,herbarium
+train/herbarium/15318/19946.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15318\19946.jpg,15318,11,Xylopia aromatica (Lam.) Mart.,herbarium
+train/herbarium/15318/20020.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15318\20020.jpg,15318,11,Xylopia aromatica (Lam.) Mart.,herbarium
+train/photo/15355/20177.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\15355\20177.jpg,15355,13,Xylopia frutescens Aubl.,field
+train/photo/15355/20174.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\15355\20174.jpg,15355,13,Xylopia frutescens Aubl.,field
+train/photo/15355/20178.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\15355\20178.jpg,15355,13,Xylopia frutescens Aubl.,field
+train/herbarium/15355/20289.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15355\20289.jpg,15355,13,Xylopia frutescens Aubl.,herbarium
+train/herbarium/15355/20109.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15355\20109.jpg,15355,13,Xylopia frutescens Aubl.,herbarium
+train/herbarium/15355/20186.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15355\20186.jpg,15355,13,Xylopia frutescens Aubl.,herbarium
+train/herbarium/15355/20159.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15355\20159.jpg,15355,13,Xylopia frutescens Aubl.,herbarium
+train/herbarium/15355/20151.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15355\20151.jpg,15355,13,Xylopia frutescens Aubl.,herbarium
+train/photo/156526/261662.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\156526\261662.jpg,156526,67,Aniba megaphylla Mez,field
+train/photo/156526/261670.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\156526\261670.jpg,156526,67,Aniba megaphylla Mez,field
+train/photo/156526/261667.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\156526\261667.jpg,156526,67,Aniba megaphylla Mez,field
+train/herbarium/156526/261715.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\156526\261715.jpg,156526,67,Aniba megaphylla Mez,herbarium
+train/herbarium/156526/261689.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\156526\261689.jpg,156526,67,Aniba megaphylla Mez,herbarium
+train/herbarium/156526/261699.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\156526\261699.jpg,156526,67,Aniba megaphylla Mez,herbarium
+train/herbarium/156526/261696.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\156526\261696.jpg,156526,67,Aniba megaphylla Mez,herbarium
+train/photo/158592/258366.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158592\258366.jpg,158592,69,Ocotea cernua (Nees) Mez,field
+train/photo/158592/258364.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158592\258364.jpg,158592,69,Ocotea cernua (Nees) Mez,field
+train/photo/158592/258360.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158592\258360.jpg,158592,69,Ocotea cernua (Nees) Mez,field
+train/photo/158592/258363.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158592\258363.jpg,158592,69,Ocotea cernua (Nees) Mez,field
+train/photo/158592/258367.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158592\258367.jpg,158592,69,Ocotea cernua (Nees) Mez,field
+train/herbarium/158592/258456.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158592\258456.jpg,158592,69,Ocotea cernua (Nees) Mez,herbarium
+train/herbarium/158592/258411.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158592\258411.jpg,158592,69,Ocotea cernua (Nees) Mez,herbarium
+train/herbarium/158592/258643.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158592\258643.jpg,158592,69,Ocotea cernua (Nees) Mez,herbarium
+train/herbarium/158592/258696.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158592\258696.jpg,158592,69,Ocotea cernua (Nees) Mez,herbarium
+train/photo/158793/261922.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158793\261922.jpg,158793,72,Ocotea oblonga (Meisn.) Mez,field
+train/photo/158793/261923.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158793\261923.jpg,158793,72,Ocotea oblonga (Meisn.) Mez,field
+train/photo/158793/261924.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158793\261924.jpg,158793,72,Ocotea oblonga (Meisn.) Mez,field
+train/photo/158793/261920.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158793\261920.jpg,158793,72,Ocotea oblonga (Meisn.) Mez,field
+train/herbarium/158793/261970.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158793\261970.jpg,158793,72,Ocotea oblonga (Meisn.) Mez,herbarium
+train/herbarium/158793/261959.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158793\261959.jpg,158793,72,Ocotea oblonga (Meisn.) Mez,herbarium
+train/herbarium/158793/261994.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158793\261994.jpg,158793,72,Ocotea oblonga (Meisn.) Mez,herbarium
+train/herbarium/158793/261972.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158793\261972.jpg,158793,72,Ocotea oblonga (Meisn.) Mez,herbarium
+train/herbarium/160570/315878.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\160570\315878.jpg,160570,77,Acacia mangium Willd.,herbarium
+train/herbarium/160570/315885.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\160570\315885.jpg,160570,77,Acacia mangium Willd.,herbarium
+train/herbarium/160570/315879.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\160570\315879.jpg,160570,77,Acacia mangium Willd.,herbarium
+train/herbarium/160570/315861.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\160570\315861.jpg,160570,77,Acacia mangium Willd.,herbarium
+train/herbarium/160570/315869.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\160570\315869.jpg,160570,77,Acacia mangium Willd.,herbarium
+train/herbarium/160570/315866.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\160570\315866.jpg,160570,77,Acacia mangium Willd.,herbarium
+train/herbarium/160570/315858.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\160570\315858.jpg,160570,77,Acacia mangium Willd.,herbarium
+train/herbarium/160570/315863.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\160570\315863.jpg,160570,77,Acacia mangium Willd.,herbarium
+train/photo/166869/288.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\166869\288.jpg,166869,79,Cajanus cajan (L.) Millsp.,field
+train/photo/166869/320011.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\166869\320011.jpg,166869,79,Cajanus cajan (L.) Millsp.,field
+train/herbarium/166869/319973.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\166869\319973.jpg,166869,79,Cajanus cajan (L.) Millsp.,herbarium
+train/herbarium/166869/319955.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\166869\319955.jpg,166869,79,Cajanus cajan (L.) Millsp.,herbarium
+train/herbarium/166869/319672.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\166869\319672.jpg,166869,79,Cajanus cajan (L.) Millsp.,herbarium
+train/herbarium/166869/319763.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\166869\319763.jpg,166869,79,Cajanus cajan (L.) Millsp.,herbarium
+train/herbarium/166869/320024.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\166869\320024.jpg,166869,79,Cajanus cajan (L.) Millsp.,herbarium
+train/photo/171727/981.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\171727\981.jpg,171727,81,Erythrina fusca Lour.,field
+train/photo/171727/316724.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\171727\316724.jpg,171727,81,Erythrina fusca Lour.,field
+train/photo/171727/984.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\171727\984.jpg,171727,81,Erythrina fusca Lour.,field
+train/herbarium/171727/316831.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\171727\316831.jpg,171727,81,Erythrina fusca Lour.,herbarium
+train/herbarium/171727/316806.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\171727\316806.jpg,171727,81,Erythrina fusca Lour.,herbarium
+train/herbarium/171727/316692.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\171727\316692.jpg,171727,81,Erythrina fusca Lour.,herbarium
+train/herbarium/105951/283047.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\105951\283047.jpg,105951,17,Maripa glabra Choisy,herbarium
+train/herbarium/105951/283096.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\105951\283096.jpg,105951,17,Maripa glabra Choisy,herbarium
+train/herbarium/105951/283060.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\105951\283060.jpg,105951,17,Maripa glabra Choisy,herbarium
+train/herbarium/105951/283057.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\105951\283057.jpg,105951,17,Maripa glabra Choisy,herbarium
+train/herbarium/105951/283073.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\105951\283073.jpg,105951,17,Maripa glabra Choisy,herbarium
+train/herbarium/105951/283087.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\105951\283087.jpg,105951,17,Maripa glabra Choisy,herbarium
+train/herbarium/105951/283044.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\105951\283044.jpg,105951,17,Maripa glabra Choisy,herbarium
+train/herbarium/105951/283102.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\105951\283102.jpg,105951,17,Maripa glabra Choisy,herbarium
+train/herbarium/105951/283051.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\105951\283051.jpg,105951,17,Maripa glabra Choisy,herbarium
+train/herbarium/106387/153763.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106387\153763.jpg,106387,19,Costus arabicus L.,herbarium
+train/herbarium/106387/153896.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106387\153896.jpg,106387,19,Costus arabicus L.,herbarium
+train/herbarium/106387/153893.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106387\153893.jpg,106387,19,Costus arabicus L.,herbarium
+train/herbarium/106387/153925.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106387\153925.jpg,106387,19,Costus arabicus L.,herbarium
+train/herbarium/106387/153757.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106387\153757.jpg,106387,19,Costus arabicus L.,herbarium
+train/herbarium/116853/190963.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\116853\190963.jpg,116853,23,Pteridium arachnoideum (Kaulf.) Maxon,herbarium
+train/herbarium/116853/190952.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\116853\190952.jpg,116853,23,Pteridium arachnoideum (Kaulf.) Maxon,herbarium
+train/herbarium/116853/191018.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\116853\191018.jpg,116853,23,Pteridium arachnoideum (Kaulf.) Maxon,herbarium
+train/herbarium/116853/191011.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\116853\191011.jpg,116853,23,Pteridium arachnoideum (Kaulf.) Maxon,herbarium
+train/herbarium/116853/190954.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\116853\190954.jpg,116853,23,Pteridium arachnoideum (Kaulf.) Maxon,herbarium
+train/herbarium/116853/191058.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\116853\191058.jpg,116853,23,Pteridium arachnoideum (Kaulf.) Maxon,herbarium
+train/herbarium/116853/190995.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\116853\190995.jpg,116853,23,Pteridium arachnoideum (Kaulf.) Maxon,herbarium
+train/herbarium/116853/190991.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\116853\190991.jpg,116853,23,Pteridium arachnoideum (Kaulf.) Maxon,herbarium
+train/herbarium/116853/191004.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\116853\191004.jpg,116853,23,Pteridium arachnoideum (Kaulf.) Maxon,herbarium
+train/herbarium/119986/193551.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\119986\193551.jpg,119986,24,Olfersia cervina (L.) Kunze,herbarium
+train/herbarium/119986/193454.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\119986\193454.jpg,119986,24,Olfersia cervina (L.) Kunze,herbarium
+train/herbarium/119986/193533.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\119986\193533.jpg,119986,24,Olfersia cervina (L.) Kunze,herbarium
+train/herbarium/119986/193624.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\119986\193624.jpg,119986,24,Olfersia cervina (L.) Kunze,herbarium
+train/herbarium/119986/193627.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\119986\193627.jpg,119986,24,Olfersia cervina (L.) Kunze,herbarium
+train/herbarium/119986/193489.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\119986\193489.jpg,119986,24,Olfersia cervina (L.) Kunze,herbarium
+train/herbarium/119986/193661.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\119986\193661.jpg,119986,24,Olfersia cervina (L.) Kunze,herbarium
+train/herbarium/119986/193538.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\119986\193538.jpg,119986,24,Olfersia cervina (L.) Kunze,herbarium
+train/herbarium/119986/193425.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\119986\193425.jpg,119986,24,Olfersia cervina (L.) Kunze,herbarium
+train/herbarium/120497/284721.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\120497\284721.jpg,120497,25,Diospyros capreifolia Mart. ex Hiern,herbarium
+train/herbarium/120497/284745.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\120497\284745.jpg,120497,25,Diospyros capreifolia Mart. ex Hiern,herbarium
+train/herbarium/120497/284738.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\120497\284738.jpg,120497,25,Diospyros capreifolia Mart. ex Hiern,herbarium
+train/herbarium/120497/284731.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\120497\284731.jpg,120497,25,Diospyros capreifolia Mart. ex Hiern,herbarium
+train/herbarium/120497/284743.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\120497\284743.jpg,120497,25,Diospyros capreifolia Mart. ex Hiern,herbarium
+train/herbarium/120497/284744.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\120497\284744.jpg,120497,25,Diospyros capreifolia Mart. ex Hiern,herbarium
+train/herbarium/120497/284747.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\120497\284747.jpg,120497,25,Diospyros capreifolia Mart. ex Hiern,herbarium
+train/herbarium/121841/86526.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121841\86526.jpg,121841,27,Sloanea guianensis (Aubl.) Benth.,herbarium
+train/herbarium/121841/86455.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121841\86455.jpg,121841,27,Sloanea guianensis (Aubl.) Benth.,herbarium
+train/herbarium/121841/86413.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121841\86413.jpg,121841,27,Sloanea guianensis (Aubl.) Benth.,herbarium
+train/herbarium/121841/86388.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121841\86388.jpg,121841,27,Sloanea guianensis (Aubl.) Benth.,herbarium
+train/herbarium/121841/86443.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121841\86443.jpg,121841,27,Sloanea guianensis (Aubl.) Benth.,herbarium
+train/herbarium/121841/86389.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121841\86389.jpg,121841,27,Sloanea guianensis (Aubl.) Benth.,herbarium
+train/herbarium/121841/86468.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121841\86468.jpg,121841,27,Sloanea guianensis (Aubl.) Benth.,herbarium
+train/herbarium/121841/86563.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121841\86563.jpg,121841,27,Sloanea guianensis (Aubl.) Benth.,herbarium
+train/herbarium/125412/86741.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\125412\86741.jpg,125412,28,Sphyrospermum cordifolium Benth.,herbarium
+train/herbarium/125412/86822.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\125412\86822.jpg,125412,28,Sphyrospermum cordifolium Benth.,herbarium
+train/herbarium/125412/86875.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\125412\86875.jpg,125412,28,Sphyrospermum cordifolium Benth.,herbarium
+train/herbarium/125412/86751.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\125412\86751.jpg,125412,28,Sphyrospermum cordifolium Benth.,herbarium
+train/herbarium/125412/86932.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\125412\86932.jpg,125412,28,Sphyrospermum cordifolium Benth.,herbarium
+train/herbarium/125412/86672.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\125412\86672.jpg,125412,28,Sphyrospermum cordifolium Benth.,herbarium
+train/herbarium/125412/86678.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\125412\86678.jpg,125412,28,Sphyrospermum cordifolium Benth.,herbarium
+train/herbarium/125412/86850.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\125412\86850.jpg,125412,28,Sphyrospermum cordifolium Benth.,herbarium
+train/herbarium/126895/87129.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\126895\87129.jpg,126895,29,Syngonanthus caulescens (Poir.) Ruhland,herbarium
+train/herbarium/126895/87090.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\126895\87090.jpg,126895,29,Syngonanthus caulescens (Poir.) Ruhland,herbarium
+train/herbarium/126895/87275.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\126895\87275.jpg,126895,29,Syngonanthus caulescens (Poir.) Ruhland,herbarium
+train/herbarium/126895/87148.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\126895\87148.jpg,126895,29,Syngonanthus caulescens (Poir.) Ruhland,herbarium
+train/herbarium/126895/87100.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\126895\87100.jpg,126895,29,Syngonanthus caulescens (Poir.) Ruhland,herbarium
+train/herbarium/126895/87172.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\126895\87172.jpg,126895,29,Syngonanthus caulescens (Poir.) Ruhland,herbarium
+train/herbarium/126895/87041.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\126895\87041.jpg,126895,29,Syngonanthus caulescens (Poir.) Ruhland,herbarium
+train/herbarium/127007/87599.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127007\87599.jpg,127007,30,Tonina fluviatilis Aubl.,herbarium
+train/herbarium/127007/87593.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127007\87593.jpg,127007,30,Tonina fluviatilis Aubl.,herbarium
+train/herbarium/127007/87562.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127007\87562.jpg,127007,30,Tonina fluviatilis Aubl.,herbarium
+train/herbarium/127007/87438.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127007\87438.jpg,127007,30,Tonina fluviatilis Aubl.,herbarium
+train/herbarium/127007/87407.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127007\87407.jpg,127007,30,Tonina fluviatilis Aubl.,herbarium
+train/herbarium/127007/87536.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127007\87536.jpg,127007,30,Tonina fluviatilis Aubl.,herbarium
+train/herbarium/127007/87511.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127007\87511.jpg,127007,30,Tonina fluviatilis Aubl.,herbarium
+train/herbarium/127007/87420.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127007\87420.jpg,127007,30,Tonina fluviatilis Aubl.,herbarium
+train/herbarium/127007/87558.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127007\87558.jpg,127007,30,Tonina fluviatilis Aubl.,herbarium
+train/herbarium/127242/271378.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127242\271378.jpg,127242,33,Erythroxylum squamatum Sw.,herbarium
+train/herbarium/127242/271241.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127242\271241.jpg,127242,33,Erythroxylum squamatum Sw.,herbarium
+train/herbarium/127242/271437.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127242\271437.jpg,127242,33,Erythroxylum squamatum Sw.,herbarium
+train/herbarium/127242/271211.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127242\271211.jpg,127242,33,Erythroxylum squamatum Sw.,herbarium
+train/herbarium/127242/271336.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127242\271336.jpg,127242,33,Erythroxylum squamatum Sw.,herbarium
+train/herbarium/127242/271351.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127242\271351.jpg,127242,33,Erythroxylum squamatum Sw.,herbarium
+train/herbarium/127242/271454.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127242\271454.jpg,127242,33,Erythroxylum squamatum Sw.,herbarium
+train/herbarium/127242/271255.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127242\271255.jpg,127242,33,Erythroxylum squamatum Sw.,herbarium
+train/herbarium/127242/271371.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127242\271371.jpg,127242,33,Erythroxylum squamatum Sw.,herbarium
+train/herbarium/130657/321666.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\130657\321666.jpg,130657,35,Euphorbia cotinifolia L.,herbarium
+train/herbarium/130657/321702.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\130657\321702.jpg,130657,35,Euphorbia cotinifolia L.,herbarium
+train/herbarium/130657/321765.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\130657\321765.jpg,130657,35,Euphorbia cotinifolia L.,herbarium
+train/herbarium/130657/321737.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\130657\321737.jpg,130657,35,Euphorbia cotinifolia L.,herbarium
+train/herbarium/130657/321682.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\130657\321682.jpg,130657,35,Euphorbia cotinifolia L.,herbarium
+train/herbarium/130657/321600.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\130657\321600.jpg,130657,35,Euphorbia cotinifolia L.,herbarium
+train/herbarium/130657/321803.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\130657\321803.jpg,130657,35,Euphorbia cotinifolia L.,herbarium
+train/herbarium/132113/282966.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132113\282966.jpg,132113,39,Euphorbia tithymaloides L.,herbarium
+train/herbarium/132113/282989.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132113\282989.jpg,132113,39,Euphorbia tithymaloides L.,herbarium
+train/herbarium/132113/282953.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132113\282953.jpg,132113,39,Euphorbia tithymaloides L.,herbarium
+train/herbarium/132113/282963.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132113\282963.jpg,132113,39,Euphorbia tithymaloides L.,herbarium
+train/herbarium/132113/282952.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132113\282952.jpg,132113,39,Euphorbia tithymaloides L.,herbarium
+train/herbarium/132113/282992.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132113\282992.jpg,132113,39,Euphorbia tithymaloides L.,herbarium
+train/herbarium/132113/282984.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132113\282984.jpg,132113,39,Euphorbia tithymaloides L.,herbarium
+train/herbarium/132113/282960.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132113\282960.jpg,132113,39,Euphorbia tithymaloides L.,herbarium
+train/herbarium/132113/282968.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132113\282968.jpg,132113,39,Euphorbia tithymaloides L.,herbarium
+train/herbarium/13276/15213.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13276\15213.jpg,13276,4,Annona ambotay Aubl.,herbarium
+train/herbarium/13276/15179.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13276\15179.jpg,13276,4,Annona ambotay Aubl.,herbarium
+train/herbarium/13276/15195.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13276\15195.jpg,13276,4,Annona ambotay Aubl.,herbarium
+train/herbarium/13276/15211.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13276\15211.jpg,13276,4,Annona ambotay Aubl.,herbarium
+train/herbarium/13276/15163.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13276\15163.jpg,13276,4,Annona ambotay Aubl.,herbarium
+train/herbarium/13276/15175.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13276\15175.jpg,13276,4,Annona ambotay Aubl.,herbarium
+train/herbarium/13276/15228.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13276\15228.jpg,13276,4,Annona ambotay Aubl.,herbarium
+train/herbarium/13325/15264.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13325\15264.jpg,13325,5,Annona foetida Mart.,herbarium
+train/herbarium/13325/15297.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13325\15297.jpg,13325,5,Annona foetida Mart.,herbarium
+train/herbarium/13325/15290.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13325\15290.jpg,13325,5,Annona foetida Mart.,herbarium
+train/herbarium/13325/15312.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13325\15312.jpg,13325,5,Annona foetida Mart.,herbarium
+train/herbarium/13325/15286.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13325\15286.jpg,13325,5,Annona foetida Mart.,herbarium
+train/herbarium/13325/15289.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13325\15289.jpg,13325,5,Annona foetida Mart.,herbarium
+train/herbarium/13325/15302.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13325\15302.jpg,13325,5,Annona foetida Mart.,herbarium
+train/herbarium/13325/15309.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13325\15309.jpg,13325,5,Annona foetida Mart.,herbarium
+train/herbarium/136761/284629.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\136761\284629.jpg,136761,45,Potalia amara Aubl.,herbarium
+train/herbarium/136761/284636.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\136761\284636.jpg,136761,45,Potalia amara Aubl.,herbarium
+train/herbarium/136761/284600.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\136761\284600.jpg,136761,45,Potalia amara Aubl.,herbarium
+train/herbarium/136761/284621.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\136761\284621.jpg,136761,45,Potalia amara Aubl.,herbarium
+train/herbarium/136761/284622.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\136761\284622.jpg,136761,45,Potalia amara Aubl.,herbarium
+train/herbarium/141332/196042.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141332\196042.jpg,141332,49,Dicranopteris flexuosa (Schrad.) Underw.,herbarium
+train/herbarium/141332/196050.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141332\196050.jpg,141332,49,Dicranopteris flexuosa (Schrad.) Underw.,herbarium
+train/herbarium/141332/196528.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141332\196528.jpg,141332,49,Dicranopteris flexuosa (Schrad.) Underw.,herbarium
+train/herbarium/141332/196032.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141332\196032.jpg,141332,49,Dicranopteris flexuosa (Schrad.) Underw.,herbarium
+train/herbarium/141332/196038.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141332\196038.jpg,141332,49,Dicranopteris flexuosa (Schrad.) Underw.,herbarium
+train/herbarium/141332/196447.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141332\196447.jpg,141332,49,Dicranopteris flexuosa (Schrad.) Underw.,herbarium
+train/herbarium/141332/196463.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141332\196463.jpg,141332,49,Dicranopteris flexuosa (Schrad.) Underw.,herbarium
+train/herbarium/141332/196200.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141332\196200.jpg,141332,49,Dicranopteris flexuosa (Schrad.) Underw.,herbarium
+train/herbarium/141336/196600.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141336\196600.jpg,141336,50,Dicranopteris pectinata (Willd.) Underw.,herbarium
+train/herbarium/141336/196951.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141336\196951.jpg,141336,50,Dicranopteris pectinata (Willd.) Underw.,herbarium
+train/herbarium/141336/196884.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141336\196884.jpg,141336,50,Dicranopteris pectinata (Willd.) Underw.,herbarium
+train/herbarium/141336/196856.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141336\196856.jpg,141336,50,Dicranopteris pectinata (Willd.) Underw.,herbarium
+train/herbarium/141336/196632.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141336\196632.jpg,141336,50,Dicranopteris pectinata (Willd.) Underw.,herbarium
+train/herbarium/141336/196918.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141336\196918.jpg,141336,50,Dicranopteris pectinata (Willd.) Underw.,herbarium
+train/herbarium/141336/196566.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141336\196566.jpg,141336,50,Dicranopteris pectinata (Willd.) Underw.,herbarium
+train/herbarium/141336/196585.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141336\196585.jpg,141336,50,Dicranopteris pectinata (Willd.) Underw.,herbarium
+train/herbarium/143706/198741.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143706\198741.jpg,143706,54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,herbarium
+train/herbarium/143706/198628.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143706\198628.jpg,143706,54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,herbarium
+train/herbarium/143706/198793.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143706\198793.jpg,143706,54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,herbarium
+train/herbarium/143706/198653.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143706\198653.jpg,143706,54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,herbarium
+train/herbarium/143706/198684.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143706\198684.jpg,143706,54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,herbarium
+train/herbarium/143706/198759.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143706\198759.jpg,143706,54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,herbarium
+train/herbarium/143706/198680.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143706\198680.jpg,143706,54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,herbarium
+train/herbarium/143706/198646.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143706\198646.jpg,143706,54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,herbarium
+train/herbarium/143758/202535.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143758\202535.jpg,143758,55,Trichomanes punctatum Poir.,herbarium
+train/herbarium/143758/202436.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143758\202436.jpg,143758,55,Trichomanes punctatum Poir.,herbarium
+train/herbarium/143758/202466.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143758\202466.jpg,143758,55,Trichomanes punctatum Poir.,herbarium
+train/herbarium/143758/202347.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143758\202347.jpg,143758,55,Trichomanes punctatum Poir.,herbarium
+train/herbarium/143758/202438.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143758\202438.jpg,143758,55,Trichomanes punctatum Poir.,herbarium
+train/herbarium/143758/202487.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143758\202487.jpg,143758,55,Trichomanes punctatum Poir.,herbarium
+train/herbarium/143758/202630.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143758\202630.jpg,143758,55,Trichomanes punctatum Poir.,herbarium
+train/herbarium/143758/202497.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143758\202497.jpg,143758,55,Trichomanes punctatum Poir.,herbarium
+train/herbarium/14401/18367.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14401\18367.jpg,14401,9,Guatteria scandens Ducke,herbarium
+train/herbarium/14401/18343.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14401\18343.jpg,14401,9,Guatteria scandens Ducke,herbarium
+train/herbarium/14401/18333.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14401\18333.jpg,14401,9,Guatteria scandens Ducke,herbarium
+train/herbarium/14401/18370.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14401\18370.jpg,14401,9,Guatteria scandens Ducke,herbarium
+train/herbarium/14401/18341.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14401\18341.jpg,14401,9,Guatteria scandens Ducke,herbarium
+train/herbarium/14401/18361.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14401\18361.jpg,14401,9,Guatteria scandens Ducke,herbarium
+train/herbarium/14401/18316.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14401\18316.jpg,14401,9,Guatteria scandens Ducke,herbarium
+train/herbarium/145020/88713.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\145020\88713.jpg,145020,57,Cipura paludosa Aubl.,herbarium
+train/herbarium/145020/88787.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\145020\88787.jpg,145020,57,Cipura paludosa Aubl.,herbarium
+train/herbarium/145020/88807.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\145020\88807.jpg,145020,57,Cipura paludosa Aubl.,herbarium
+train/herbarium/145020/88771.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\145020\88771.jpg,145020,57,Cipura paludosa Aubl.,herbarium
+train/herbarium/145020/88827.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\145020\88827.jpg,145020,57,Cipura paludosa Aubl.,herbarium
+train/herbarium/145020/88764.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\145020\88764.jpg,145020,57,Cipura paludosa Aubl.,herbarium
+train/herbarium/145020/88717.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\145020\88717.jpg,145020,57,Cipura paludosa Aubl.,herbarium
+train/herbarium/145020/88825.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\145020\88825.jpg,145020,57,Cipura paludosa Aubl.,herbarium
+train/herbarium/145020/88729.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\145020\88729.jpg,145020,57,Cipura paludosa Aubl.,herbarium
+train/herbarium/145020/88824.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\145020\88824.jpg,145020,57,Cipura paludosa Aubl.,herbarium
+train/herbarium/148220/289794.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148220\289794.jpg,148220,58,Aegiphila macrantha Ducke,herbarium
+train/herbarium/148220/289797.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148220\289797.jpg,148220,58,Aegiphila macrantha Ducke,herbarium
+train/herbarium/148220/289787.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148220\289787.jpg,148220,58,Aegiphila macrantha Ducke,herbarium
+train/herbarium/148220/289792.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148220\289792.jpg,148220,58,Aegiphila macrantha Ducke,herbarium
+train/herbarium/148220/289814.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148220\289814.jpg,148220,58,Aegiphila macrantha Ducke,herbarium
+train/herbarium/148220/289819.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148220\289819.jpg,148220,58,Aegiphila macrantha Ducke,herbarium
+train/herbarium/148220/289804.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148220\289804.jpg,148220,58,Aegiphila macrantha Ducke,herbarium
+train/herbarium/148220/289812.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148220\289812.jpg,148220,58,Aegiphila macrantha Ducke,herbarium
+train/herbarium/148220/289786.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148220\289786.jpg,148220,58,Aegiphila macrantha Ducke,herbarium
+train/herbarium/149264/243704.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149264\243704.jpg,149264,60,Congea tomentosa Roxb.,herbarium
+train/herbarium/149264/243667.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149264\243667.jpg,149264,60,Congea tomentosa Roxb.,herbarium
+train/herbarium/149264/243671.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149264\243671.jpg,149264,60,Congea tomentosa Roxb.,herbarium
+train/herbarium/149264/243710.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149264\243710.jpg,149264,60,Congea tomentosa Roxb.,herbarium
+train/herbarium/149264/243669.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149264\243669.jpg,149264,60,Congea tomentosa Roxb.,herbarium
+train/herbarium/149264/243705.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149264\243705.jpg,149264,60,Congea tomentosa Roxb.,herbarium
+train/herbarium/149682/283036.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149682\283036.jpg,149682,61,Gmelina philippensis Cham.,herbarium
+train/herbarium/149682/283024.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149682\283024.jpg,149682,61,Gmelina philippensis Cham.,herbarium
+train/herbarium/149682/283033.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149682\283033.jpg,149682,61,Gmelina philippensis Cham.,herbarium
+train/herbarium/15014/22778.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15014\22778.jpg,15014,10,Rollinia mucosa (Jacq.) Baill.,herbarium
+train/herbarium/15014/22771.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15014\22771.jpg,15014,10,Rollinia mucosa (Jacq.) Baill.,herbarium
+train/herbarium/15014/22800.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15014\22800.jpg,15014,10,Rollinia mucosa (Jacq.) Baill.,herbarium
+train/herbarium/15014/22803.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15014\22803.jpg,15014,10,Rollinia mucosa (Jacq.) Baill.,herbarium
+train/herbarium/15014/22783.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15014\22783.jpg,15014,10,Rollinia mucosa (Jacq.) Baill.,herbarium
+train/herbarium/15014/22797.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15014\22797.jpg,15014,10,Rollinia mucosa (Jacq.) Baill.,herbarium
+train/herbarium/15014/22791.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15014\22791.jpg,15014,10,Rollinia mucosa (Jacq.) Baill.,herbarium
+train/herbarium/151593/319478.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151593\319478.jpg,151593,65,Orthosiphon aristatus (Blume) Miq.,herbarium
+train/herbarium/151593/319425.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151593\319425.jpg,151593,65,Orthosiphon aristatus (Blume) Miq.,herbarium
+train/herbarium/151593/319479.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151593\319479.jpg,151593,65,Orthosiphon aristatus (Blume) Miq.,herbarium
+train/herbarium/151593/319506.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151593\319506.jpg,151593,65,Orthosiphon aristatus (Blume) Miq.,herbarium
+train/herbarium/151593/319408.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151593\319408.jpg,151593,65,Orthosiphon aristatus (Blume) Miq.,herbarium
+train/herbarium/151593/319421.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151593\319421.jpg,151593,65,Orthosiphon aristatus (Blume) Miq.,herbarium
+train/herbarium/151593/319471.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151593\319471.jpg,151593,65,Orthosiphon aristatus (Blume) Miq.,herbarium
+train/herbarium/151593/319486.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151593\319486.jpg,151593,65,Orthosiphon aristatus (Blume) Miq.,herbarium
+train/herbarium/151593/319463.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151593\319463.jpg,151593,65,Orthosiphon aristatus (Blume) Miq.,herbarium
+train/herbarium/151593/319435.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151593\319435.jpg,151593,65,Orthosiphon aristatus (Blume) Miq.,herbarium
+train/herbarium/15330/239209.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15330\239209.jpg,15330,12,Xylopia cayennensis Maas,herbarium
+train/herbarium/15330/239254.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15330\239254.jpg,15330,12,Xylopia cayennensis Maas,herbarium
+train/herbarium/15330/239227.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15330\239227.jpg,15330,12,Xylopia cayennensis Maas,herbarium
+train/herbarium/15330/239259.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15330\239259.jpg,15330,12,Xylopia cayennensis Maas,herbarium
+train/herbarium/15330/239272.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15330\239272.jpg,15330,12,Xylopia cayennensis Maas,herbarium
+train/herbarium/15330/239251.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15330\239251.jpg,15330,12,Xylopia cayennensis Maas,herbarium
+train/herbarium/15330/239246.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15330\239246.jpg,15330,12,Xylopia cayennensis Maas,herbarium
+train/herbarium/15330/239243.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15330\239243.jpg,15330,12,Xylopia cayennensis Maas,herbarium
+train/herbarium/159434/251887.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159434\251887.jpg,159434,74,Couratari guianensis Aubl.,herbarium
+train/herbarium/159434/251919.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159434\251919.jpg,159434,74,Couratari guianensis Aubl.,herbarium
+train/herbarium/159434/251893.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159434\251893.jpg,159434,74,Couratari guianensis Aubl.,herbarium
+train/herbarium/159434/251953.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159434\251953.jpg,159434,74,Couratari guianensis Aubl.,herbarium
+train/herbarium/159434/252017.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159434\252017.jpg,159434,74,Couratari guianensis Aubl.,herbarium
+train/herbarium/159434/252106.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159434\252106.jpg,159434,74,Couratari guianensis Aubl.,herbarium
+train/herbarium/159434/252084.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159434\252084.jpg,159434,74,Couratari guianensis Aubl.,herbarium
+train/herbarium/159434/252000.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159434\252000.jpg,159434,74,Couratari guianensis Aubl.,herbarium
+train/herbarium/159516/91249.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159516\91249.jpg,159516,75,Eschweilera parviflora (Aubl.) Miers,herbarium
+train/herbarium/159516/91320.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159516\91320.jpg,159516,75,Eschweilera parviflora (Aubl.) Miers,herbarium
+train/herbarium/159516/91329.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159516\91329.jpg,159516,75,Eschweilera parviflora (Aubl.) Miers,herbarium
+train/herbarium/159516/91171.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159516\91171.jpg,159516,75,Eschweilera parviflora (Aubl.) Miers,herbarium
+train/herbarium/159516/91330.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159516\91330.jpg,159516,75,Eschweilera parviflora (Aubl.) Miers,herbarium
+train/herbarium/159516/91528.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159516\91528.jpg,159516,75,Eschweilera parviflora (Aubl.) Miers,herbarium
+train/herbarium/159516/91435.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159516\91435.jpg,159516,75,Eschweilera parviflora (Aubl.) Miers,herbarium
+train/herbarium/159516/91349.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159516\91349.jpg,159516,75,Eschweilera parviflora (Aubl.) Miers,herbarium
+train/herbarium/159516/91445.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159516\91445.jpg,159516,75,Eschweilera parviflora (Aubl.) Miers,herbarium
+train/herbarium/159518/176197.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159518\176197.jpg,159518,76,Eschweilera pedicellata (Rich.) S.A.Mori,herbarium
+train/herbarium/159518/175796.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159518\175796.jpg,159518,76,Eschweilera pedicellata (Rich.) S.A.Mori,herbarium
+train/herbarium/159518/176330.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159518\176330.jpg,159518,76,Eschweilera pedicellata (Rich.) S.A.Mori,herbarium
+train/herbarium/159518/176313.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159518\176313.jpg,159518,76,Eschweilera pedicellata (Rich.) S.A.Mori,herbarium
+train/herbarium/159518/175435.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159518\175435.jpg,159518,76,Eschweilera pedicellata (Rich.) S.A.Mori,herbarium
+train/herbarium/159518/176251.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159518\176251.jpg,159518,76,Eschweilera pedicellata (Rich.) S.A.Mori,herbarium
+train/herbarium/159518/176112.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159518\176112.jpg,159518,76,Eschweilera pedicellata (Rich.) S.A.Mori,herbarium
+train/herbarium/159518/176299.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159518\176299.jpg,159518,76,Eschweilera pedicellata (Rich.) S.A.Mori,herbarium
+train/herbarium/106461/154101.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106461\154101.jpg,106461,20,Costus scaber Ruiz Pav.,herbarium
+train/herbarium/12518/10760.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12518\10760.jpg,12518,1,Mangifera indica L.,herbarium
+train/herbarium/12518/11212.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12518\11212.jpg,12518,1,Mangifera indica L.,herbarium
+train/photo/127151/265181.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\127151\265181.jpg,127151,32,Erythroxylum macrophyllum Cav.,field
+train/photo/12910/11763.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12910\11763.jpg,12910,2,Spondias mombin L.,field
+train/herbarium/12910/12070.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12910\12070.jpg,12910,2,Spondias mombin L.,herbarium
+train/herbarium/12910/12058.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12910\12058.jpg,12910,2,Spondias mombin L.,herbarium
+train/photo/12922/13348.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\12922\13348.jpg,12922,3,Tapirira guianensis Aubl.,field
+train/photo/131079/330028.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\131079\330028.jpg,131079,36,Euphorbia heterophylla L.,field
+train/herbarium/131079/329199.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131079\329199.jpg,131079,36,Euphorbia heterophylla L.,herbarium
+train/herbarium/131736/300755.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\131736\300755.jpg,131736,37,Euphorbia prostrata Aiton,herbarium
+train/herbarium/133595/315463.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133595\315463.jpg,133595,43,Ricinus communis L.,herbarium
+train/herbarium/133595/315621.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133595\315621.jpg,133595,43,Ricinus communis L.,herbarium
+train/herbarium/133595/315769.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133595\315769.jpg,133595,43,Ricinus communis L.,herbarium
+train/herbarium/133617/272651.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\133617\272651.jpg,133617,44,Sapium glandulosum (L.) Morong,herbarium
+train/photo/13370/16291.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\13370\16291.jpg,13370,7,Annona muricata L.,field
+train/herbarium/13370/16203.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13370\16203.jpg,13370,7,Annona muricata L.,herbarium
+train/herbarium/13370/16347.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13370\16347.jpg,13370,7,Annona muricata L.,herbarium
+train/herbarium/13370/16491.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13370\16491.jpg,13370,7,Annona muricata L.,herbarium
+train/photo/158341/256458.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158341\256458.jpg,158341,68,Nectandra cissiflora Nees,field
+train/herbarium/158341/256502.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158341\256502.jpg,158341,68,Nectandra cissiflora Nees,herbarium
+train/herbarium/158341/256486.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158341\256486.jpg,158341,68,Nectandra cissiflora Nees,herbarium
+train/photo/158653/256175.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\158653\256175.jpg,158653,70,Ocotea floribunda (Sw.) Mez,field
+train/herbarium/158736/253568.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158736\253568.jpg,158736,71,Ocotea longifolia Kunth,herbarium
+train/herbarium/158833/266274.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158833\266274.jpg,158833,73,Ocotea puberula (Rich.) Nees,herbarium
+train/photo/166822/172370.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\166822\172370.jpg,166822,78,Caesalpinia pulcherrima (L.) Sw.,field
+train/herbarium/173914/123550.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\173914\123550.jpg,173914,82,Inga alba (Sw.) Willd.,herbarium
+train/herbarium/173914/123583.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\173914\123583.jpg,173914,82,Inga alba (Sw.) Willd.,herbarium
+train/photo/173972/254669.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\173972\254669.jpg,173972,83,Inga capitata Desv.,field
+train/photo/173972/254484.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\173972\254484.jpg,173972,83,Inga capitata Desv.,field
+train/herbarium/174017/245019.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\174017\245019.jpg,174017,84,Inga edulis Mart.,herbarium
+train/herbarium/174017/244789.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\174017\244789.jpg,174017,84,Inga edulis Mart.,herbarium
+train/herbarium/174017/245077.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\174017\245077.jpg,174017,84,Inga edulis Mart.,herbarium
+train/herbarium/177730/280964.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\177730\280964.jpg,177730,85,Mimosa pigra L.,herbarium
+train/herbarium/177730/280828.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\177730\280828.jpg,177730,85,Mimosa pigra L.,herbarium
+train/photo/177775/303999.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\177775\303999.jpg,177775,86,Mimosa pudica L.,field
+train/photo/177775/304426.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\177775\304426.jpg,177775,86,Mimosa pudica L.,field
+train/herbarium/177775/304071.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\177775\304071.jpg,177775,86,Mimosa pudica L.,herbarium
+train/herbarium/189669/305740.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\189669\305740.jpg,189669,87,Punica granatum L.,herbarium
+train/herbarium/191642/50385.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\191642\50385.jpg,191642,88,Adansonia digitata L.,herbarium
+train/herbarium/191642/50418.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\191642\50418.jpg,191642,88,Adansonia digitata L.,herbarium
+train/photo/19165/21522.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\19165\21522.jpg,19165,14,Allamanda cathartica L.,field
+train/photo/19165/21526.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\19165\21526.jpg,19165,14,Allamanda cathartica L.,field
+train/herbarium/19165/21400.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\19165\21400.jpg,19165,14,Allamanda cathartica L.,herbarium
+train/herbarium/192311/50704.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\192311\50704.jpg,192311,89,Ceiba pentandra (L.) Gaertn.,herbarium
+train/photo/194035/173082.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\194035\173082.jpg,194035,90,Hibiscus rosa-sinensis L.,field
+train/herbarium/194035/173077.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\194035\173077.jpg,194035,90,Hibiscus rosa-sinensis L.,herbarium
+train/herbarium/194035/172805.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\194035\172805.jpg,194035,90,Hibiscus rosa-sinensis L.,herbarium
+train/photo/209328/135839.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\209328\135839.jpg,209328,91,Psidium guineense Sw.,field
+train/herbarium/211059/187410.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\211059\187410.jpg,211059,92,Nephrolepis biserrata (Sw.) Schott,herbarium
+train/herbarium/244705/305703.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\244705\305703.jpg,244705,93,Averrhoa carambola L.,herbarium
+train/photo/248392/145774.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\248392\145774.jpg,248392,94,Turnera ulmifolia L.,field
+train/photo/248392/146217.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\248392\146217.jpg,248392,94,Turnera ulmifolia L.,field
+train/herbarium/248392/145823.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\248392\145823.jpg,248392,94,Turnera ulmifolia L.,herbarium
+train/photo/254180/2062.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\254180\2062.jpg,254180,95,Piper peltatum L.,field
+train/photo/275029/155669.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\275029\155669.jpg,275029,96,Eichhornia crassipes (Mart.) Solms,field
+train/herbarium/275029/155256.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\275029\155256.jpg,275029,96,Eichhornia crassipes (Mart.) Solms,herbarium
+train/photo/280085/214826.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\280085\214826.jpg,280085,97,Ceratopteris thalictroides (L.) Brongn.,field
+train/herbarium/280085/215438.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280085\215438.jpg,280085,97,Ceratopteris thalictroides (L.) Brongn.,herbarium
+train/herbarium/280085/215351.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280085\215351.jpg,280085,97,Ceratopteris thalictroides (L.) Brongn.,herbarium
+train/photo/280698/216161.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\280698\216161.jpg,280698,98,Pityrogramma calomelanos (L.) Link,field
+train/herbarium/280698/217104.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\280698\217104.jpg,280698,98,Pityrogramma calomelanos (L.) Link,herbarium
+train/herbarium/285398/262493.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\285398\262493.jpg,285398,99,Cassipourea guianensis Aubl.,herbarium
+train/herbarium/285398/262124.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\285398\262124.jpg,285398,99,Cassipourea guianensis Aubl.,herbarium
+train/herbarium/285398/262434.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\285398\262434.jpg,285398,99,Cassipourea guianensis Aubl.,herbarium
+train/herbarium/29686/26851.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\29686\26851.jpg,29686,16,Oreopanax capitatus (Jacq.) Decne. Planch.,herbarium
+train/herbarium/29686/26543.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\29686\26543.jpg,29686,16,Oreopanax capitatus (Jacq.) Decne. Planch.,herbarium
+train/herbarium/29686/26413.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\29686\26413.jpg,29686,16,Oreopanax capitatus (Jacq.) Decne. Planch.,herbarium
+train/herbarium/110432/293651.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\110432\293651.jpg,110432,22,Evodianthus funifer (Poit.) Lindm.,herbarium
+train/herbarium/110432/293649.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\110432\293649.jpg,110432,22,Evodianthus funifer (Poit.) Lindm.,herbarium
+train/herbarium/110432/293611.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\110432\293611.jpg,110432,22,Evodianthus funifer (Poit.) Lindm.,herbarium
+train/herbarium/110432/293527.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\110432\293527.jpg,110432,22,Evodianthus funifer (Poit.) Lindm.,herbarium
+train/herbarium/110432/293573.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\110432\293573.jpg,110432,22,Evodianthus funifer (Poit.) Lindm.,herbarium
+train/herbarium/121836/86325.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121836\86325.jpg,121836,26,Sloanea grandiflora Sm.,herbarium
+train/herbarium/121836/86321.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121836\86321.jpg,121836,26,Sloanea grandiflora Sm.,herbarium
+train/herbarium/121836/86278.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121836\86278.jpg,121836,26,Sloanea grandiflora Sm.,herbarium
+train/herbarium/121836/86311.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121836\86311.jpg,121836,26,Sloanea grandiflora Sm.,herbarium
+train/herbarium/12254/9252.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12254\9252.jpg,12254,0,Anacardium occidentale L.,herbarium
+train/herbarium/12254/9459.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\12254\9459.jpg,12254,0,Anacardium occidentale L.,herbarium
+train/herbarium/127097/261745.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127097\261745.jpg,127097,31,Erythroxylum fimbriatum Peyr.,herbarium
+train/herbarium/127097/261754.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127097\261754.jpg,127097,31,Erythroxylum fimbriatum Peyr.,herbarium
+train/herbarium/129645/260859.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\129645\260859.jpg,129645,34,Croton schiedeanus Schltdl.,herbarium
+train/herbarium/129645/260827.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\129645\260827.jpg,129645,34,Croton schiedeanus Schltdl.,herbarium
+train/herbarium/132107/310601.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132107\310601.jpg,132107,38,Euphorbia thymifolia L.,herbarium
+train/herbarium/132476/281518.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132476\281518.jpg,132476,41,Jatropha curcas L.,herbarium
+train/herbarium/132476/281912.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132476\281912.jpg,132476,41,Jatropha curcas L.,herbarium
+train/herbarium/132501/307371.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132501\307371.jpg,132501,42,Jatropha gossypiifolia L.,herbarium
+train/herbarium/132501/307347.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132501\307347.jpg,132501,42,Jatropha gossypiifolia L.,herbarium
+train/herbarium/132501/307485.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132501\307485.jpg,132501,42,Jatropha gossypiifolia L.,herbarium
+train/herbarium/141068/267633.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141068\267633.jpg,141068,48,Sinningia incarnata (Aubl.) D.L.Denham,herbarium
+train/herbarium/141068/267635.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141068\267635.jpg,141068,48,Sinningia incarnata (Aubl.) D.L.Denham,herbarium
+train/herbarium/142550/265673.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142550\265673.jpg,142550,51,Heliconia chartacea Lane ex Barreiros,herbarium
+train/herbarium/142550/265710.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142550\265710.jpg,142550,51,Heliconia chartacea Lane ex Barreiros,herbarium
+train/herbarium/142550/265646.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142550\265646.jpg,142550,51,Heliconia chartacea Lane ex Barreiros,herbarium
+train/herbarium/142550/265716.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142550\265716.jpg,142550,51,Heliconia chartacea Lane ex Barreiros,herbarium
+train/herbarium/142736/88437.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\142736\88437.jpg,142736,52,Hernandia guianensis Aubl.,herbarium
+train/herbarium/143496/197116.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143496\197116.jpg,143496,53,Hymenophyllum hirsutum (L.) Sw.,herbarium
+train/herbarium/143496/197907.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143496\197907.jpg,143496,53,Hymenophyllum hirsutum (L.) Sw.,herbarium
+train/herbarium/14353/18191.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14353\18191.jpg,14353,8,Guatteria ouregou (Aubl.) Dunal,herbarium
+train/herbarium/14353/18080.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14353\18080.jpg,14353,8,Guatteria ouregou (Aubl.) Dunal,herbarium
+train/herbarium/144394/190393.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\144394\190393.jpg,144394,56,Didymochlaena truncatula (Sw.) J. Sm.,herbarium
+train/herbarium/144394/190897.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\144394\190897.jpg,144394,56,Didymochlaena truncatula (Sw.) J. Sm.,herbarium
+train/herbarium/144394/190763.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\144394\190763.jpg,144394,56,Didymochlaena truncatula (Sw.) J. Sm.,herbarium
+train/herbarium/149919/290088.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149919\290088.jpg,149919,62,Holmskioldia sanguinea Retz.,herbarium
+train/herbarium/150135/295106.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\150135\295106.jpg,150135,63,Hyptis lanceolata Poir.,herbarium
+train/herbarium/150135/295061.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\150135\295061.jpg,150135,63,Hyptis lanceolata Poir.,herbarium
+train/herbarium/150135/295147.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\150135\295147.jpg,150135,63,Hyptis lanceolata Poir.,herbarium
+train/herbarium/151469/308272.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151469\308272.jpg,151469,64,Ocimum campechianum Mill.,herbarium
+train/herbarium/151469/308295.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151469\308295.jpg,151469,64,Ocimum campechianum Mill.,herbarium
+train/herbarium/151469/308527.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\151469\308527.jpg,151469,64,Ocimum campechianum Mill.,herbarium
+train/herbarium/15318/19776.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15318\19776.jpg,15318,11,Xylopia aromatica (Lam.) Mart.,herbarium
+train/herbarium/15355/20190.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15355\20190.jpg,15355,13,Xylopia frutescens Aubl.,herbarium
+train/herbarium/15355/20107.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15355\20107.jpg,15355,13,Xylopia frutescens Aubl.,herbarium
+train/photo/156526/261663.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\156526\261663.jpg,156526,67,Aniba megaphylla Mez,field
+train/herbarium/156526/261710.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\156526\261710.jpg,156526,67,Aniba megaphylla Mez,herbarium
+train/herbarium/156526/261704.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\156526\261704.jpg,156526,67,Aniba megaphylla Mez,herbarium
+train/herbarium/158592/258616.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158592\258616.jpg,158592,69,Ocotea cernua (Nees) Mez,herbarium
+train/herbarium/158793/261966.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158793\261966.jpg,158793,72,Ocotea oblonga (Meisn.) Mez,herbarium
+train/herbarium/158793/261946.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\158793\261946.jpg,158793,72,Ocotea oblonga (Meisn.) Mez,herbarium
+train/herbarium/160570/315856.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\160570\315856.jpg,160570,77,Acacia mangium Willd.,herbarium
+train/herbarium/166869/319777.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\166869\319777.jpg,166869,79,Cajanus cajan (L.) Millsp.,herbarium
+train/herbarium/166869/319883.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\166869\319883.jpg,166869,79,Cajanus cajan (L.) Millsp.,herbarium
+train/herbarium/166869/319936.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\166869\319936.jpg,166869,79,Cajanus cajan (L.) Millsp.,herbarium
+train/photo/171727/986.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\photo\171727\986.jpg,171727,81,Erythrina fusca Lour.,field
+train/herbarium/171727/316919.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\171727\316919.jpg,171727,81,Erythrina fusca Lour.,herbarium
+train/herbarium/171727/317106.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\171727\317106.jpg,171727,81,Erythrina fusca Lour.,herbarium
+train/herbarium/171727/317056.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\171727\317056.jpg,171727,81,Erythrina fusca Lour.,herbarium
+train/herbarium/105951/283095.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\105951\283095.jpg,105951,17,Maripa glabra Choisy,herbarium
+train/herbarium/106387/153895.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106387\153895.jpg,106387,19,Costus arabicus L.,herbarium
+train/herbarium/106387/153918.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106387\153918.jpg,106387,19,Costus arabicus L.,herbarium
+train/herbarium/106387/153864.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106387\153864.jpg,106387,19,Costus arabicus L.,herbarium
+train/herbarium/106387/153828.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106387\153828.jpg,106387,19,Costus arabicus L.,herbarium
+train/herbarium/106387/153820.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\106387\153820.jpg,106387,19,Costus arabicus L.,herbarium
+train/herbarium/116853/191111.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\116853\191111.jpg,116853,23,Pteridium arachnoideum (Kaulf.) Maxon,herbarium
+train/herbarium/119986/193738.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\119986\193738.jpg,119986,24,Olfersia cervina (L.) Kunze,herbarium
+train/herbarium/120497/284736.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\120497\284736.jpg,120497,25,Diospyros capreifolia Mart. ex Hiern,herbarium
+train/herbarium/121841/86495.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121841\86495.jpg,121841,27,Sloanea guianensis (Aubl.) Benth.,herbarium
+train/herbarium/121841/86380.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\121841\86380.jpg,121841,27,Sloanea guianensis (Aubl.) Benth.,herbarium
+train/herbarium/125412/86811.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\125412\86811.jpg,125412,28,Sphyrospermum cordifolium Benth.,herbarium
+train/herbarium/125412/86950.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\125412\86950.jpg,125412,28,Sphyrospermum cordifolium Benth.,herbarium
+train/herbarium/126895/87082.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\126895\87082.jpg,126895,29,Syngonanthus caulescens (Poir.) Ruhland,herbarium
+train/herbarium/126895/87123.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\126895\87123.jpg,126895,29,Syngonanthus caulescens (Poir.) Ruhland,herbarium
+train/herbarium/126895/87143.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\126895\87143.jpg,126895,29,Syngonanthus caulescens (Poir.) Ruhland,herbarium
+train/herbarium/127007/87464.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127007\87464.jpg,127007,30,Tonina fluviatilis Aubl.,herbarium
+train/herbarium/127242/271263.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\127242\271263.jpg,127242,33,Erythroxylum squamatum Sw.,herbarium
+train/herbarium/130657/321607.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\130657\321607.jpg,130657,35,Euphorbia cotinifolia L.,herbarium
+train/herbarium/130657/321699.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\130657\321699.jpg,130657,35,Euphorbia cotinifolia L.,herbarium
+train/herbarium/130657/321656.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\130657\321656.jpg,130657,35,Euphorbia cotinifolia L.,herbarium
+train/herbarium/132113/282983.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\132113\282983.jpg,132113,39,Euphorbia tithymaloides L.,herbarium
+train/herbarium/13276/15158.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13276\15158.jpg,13276,4,Annona ambotay Aubl.,herbarium
+train/herbarium/13276/15203.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13276\15203.jpg,13276,4,Annona ambotay Aubl.,herbarium
+train/herbarium/13276/15160.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13276\15160.jpg,13276,4,Annona ambotay Aubl.,herbarium
+train/herbarium/13325/15299.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13325\15299.jpg,13325,5,Annona foetida Mart.,herbarium
+train/herbarium/13325/15291.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\13325\15291.jpg,13325,5,Annona foetida Mart.,herbarium
+train/herbarium/136761/284638.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\136761\284638.jpg,136761,45,Potalia amara Aubl.,herbarium
+train/herbarium/136761/284612.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\136761\284612.jpg,136761,45,Potalia amara Aubl.,herbarium
+train/herbarium/136761/284603.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\136761\284603.jpg,136761,45,Potalia amara Aubl.,herbarium
+train/herbarium/141332/196328.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141332\196328.jpg,141332,49,Dicranopteris flexuosa (Schrad.) Underw.,herbarium
+train/herbarium/141332/196201.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141332\196201.jpg,141332,49,Dicranopteris flexuosa (Schrad.) Underw.,herbarium
+train/herbarium/141336/196972.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141336\196972.jpg,141336,50,Dicranopteris pectinata (Willd.) Underw.,herbarium
+train/herbarium/141336/196920.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\141336\196920.jpg,141336,50,Dicranopteris pectinata (Willd.) Underw.,herbarium
+train/herbarium/143706/198683.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143706\198683.jpg,143706,54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,herbarium
+train/herbarium/143706/198828.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143706\198828.jpg,143706,54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,herbarium
+train/herbarium/143758/202526.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143758\202526.jpg,143758,55,Trichomanes punctatum Poir.,herbarium
+train/herbarium/143758/202590.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\143758\202590.jpg,143758,55,Trichomanes punctatum Poir.,herbarium
+train/herbarium/14401/18347.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14401\18347.jpg,14401,9,Guatteria scandens Ducke,herbarium
+train/herbarium/14401/18351.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14401\18351.jpg,14401,9,Guatteria scandens Ducke,herbarium
+train/herbarium/14401/18391.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\14401\18391.jpg,14401,9,Guatteria scandens Ducke,herbarium
+train/herbarium/148220/289832.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\148220\289832.jpg,148220,58,Aegiphila macrantha Ducke,herbarium
+train/herbarium/149264/243680.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149264\243680.jpg,149264,60,Congea tomentosa Roxb.,herbarium
+train/herbarium/149264/243662.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149264\243662.jpg,149264,60,Congea tomentosa Roxb.,herbarium
+train/herbarium/149264/243707.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149264\243707.jpg,149264,60,Congea tomentosa Roxb.,herbarium
+train/herbarium/149682/283026.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\149682\283026.jpg,149682,61,Gmelina philippensis Cham.,herbarium
+train/herbarium/15014/22798.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15014\22798.jpg,15014,10,Rollinia mucosa (Jacq.) Baill.,herbarium
+train/herbarium/15014/22735.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15014\22735.jpg,15014,10,Rollinia mucosa (Jacq.) Baill.,herbarium
+train/herbarium/15014/22808.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15014\22808.jpg,15014,10,Rollinia mucosa (Jacq.) Baill.,herbarium
+train/herbarium/15330/239213.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15330\239213.jpg,15330,12,Xylopia cayennensis Maas,herbarium
+train/herbarium/15330/239216.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\15330\239216.jpg,15330,12,Xylopia cayennensis Maas,herbarium
+train/herbarium/159434/251926.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159434\251926.jpg,159434,74,Couratari guianensis Aubl.,herbarium
+train/herbarium/159434/252004.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159434\252004.jpg,159434,74,Couratari guianensis Aubl.,herbarium
+train/herbarium/159516/91242.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159516\91242.jpg,159516,75,Eschweilera parviflora (Aubl.) Miers,herbarium
+train/herbarium/159518/176131.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159518\176131.jpg,159518,76,Eschweilera pedicellata (Rich.) S.A.Mori,herbarium
+train/herbarium/159518/176360.jpg,D:\AML\AML dataset\Herbarium_Field dataset\AML_project_herbarium_dataset\train\herbarium\159518\176360.jpg,159518,76,Eschweilera pedicellata (Rich.) S.A.Mori,herbarium

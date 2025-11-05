@@ -1,0 +1,101 @@
+class_id,species_name,label_idx
+12254,Anacardium occidentale L.,0
+12518,Mangifera indica L.,1
+12910,Spondias mombin L.,2
+12922,Tapirira guianensis Aubl.,3
+13276,Annona ambotay Aubl.,4
+13325,Annona foetida Mart.,5
+13330,Annona glabra L.,6
+13370,Annona muricata L.,7
+14353,Guatteria ouregou (Aubl.) Dunal,8
+14401,Guatteria scandens Ducke,9
+15014,Rollinia mucosa (Jacq.) Baill.,10
+15318,Xylopia aromatica (Lam.) Mart.,11
+15330,Xylopia cayennensis Maas,12
+15355,Xylopia frutescens Aubl.,13
+19165,Allamanda cathartica L.,14
+19489,Asclepias curassavica L.,15
+29686,Oreopanax capitatus (Jacq.) Decne. Planch.,16
+105951,Maripa glabra Choisy,17
+106023,Merremia umbellata (L.) Hallier f.,18
+106387,Costus arabicus L.,19
+106461,Costus scaber Ruiz Pav.,20
+106466,Costus spiralis (Jacq.) Roscoe,21
+110432,Evodianthus funifer (Poit.) Lindm.,22
+116853,Pteridium arachnoideum (Kaulf.) Maxon,23
+119986,Olfersia cervina (L.) Kunze,24
+120497,Diospyros capreifolia Mart. ex Hiern,25
+121836,Sloanea grandiflora Sm.,26
+121841,Sloanea guianensis (Aubl.) Benth.,27
+125412,Sphyrospermum cordifolium Benth.,28
+126895,Syngonanthus caulescens (Poir.) Ruhland,29
+127007,Tonina fluviatilis Aubl.,30
+127097,Erythroxylum fimbriatum Peyr.,31
+127151,Erythroxylum macrophyllum Cav.,32
+127242,Erythroxylum squamatum Sw.,33
+129645,Croton schiedeanus Schltdl.,34
+130657,Euphorbia cotinifolia L.,35
+131079,Euphorbia heterophylla L.,36
+131736,Euphorbia prostrata Aiton,37
+132107,Euphorbia thymifolia L.,38
+132113,Euphorbia tithymaloides L.,39
+132431,Hura crepitans L.,40
+132476,Jatropha curcas L.,41
+132501,Jatropha gossypiifolia L.,42
+133595,Ricinus communis L.,43
+133617,Sapium glandulosum (L.) Morong,44
+136761,Potalia amara Aubl.,45
+138662,Chrysothemis pulchella (Donn ex Sims) Decne.,46
+140367,Lembocarpus amoenus Leeuwenb.,47
+141068,Sinningia incarnata (Aubl.) D.L.Denham,48
+141332,Dicranopteris flexuosa (Schrad.) Underw.,49
+141336,Dicranopteris pectinata (Willd.) Underw.,50
+142550,Heliconia chartacea Lane ex Barreiros,51
+142736,Hernandia guianensis Aubl.,52
+143496,Hymenophyllum hirsutum (L.) Sw.,53
+143706,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,54
+143758,Trichomanes punctatum Poir.,55
+144394,Didymochlaena truncatula (Sw.) J. Sm.,56
+145020,Cipura paludosa Aubl.,57
+148220,Aegiphila macrantha Ducke,58
+148977,Clerodendrum paniculatum L.,59
+149264,Congea tomentosa Roxb.,60
+149682,Gmelina philippensis Cham.,61
+149919,Holmskioldia sanguinea Retz.,62
+150135,Hyptis lanceolata Poir.,63
+151469,Ocimum campechianum Mill.,64
+151593,Orthosiphon aristatus (Blume) Miq.,65
+156516,Aniba guianensis Aubl.,66
+156526,Aniba megaphylla Mez,67
+158341,Nectandra cissiflora Nees,68
+158592,Ocotea cernua (Nees) Mez,69
+158653,Ocotea floribunda (Sw.) Mez,70
+158736,Ocotea longifolia Kunth,71
+158793,Ocotea oblonga (Meisn.) Mez,72
+158833,Ocotea puberula (Rich.) Nees,73
+159434,Couratari guianensis Aubl.,74
+159516,Eschweilera parviflora (Aubl.) Miers,75
+159518,Eschweilera pedicellata (Rich.) S.A.Mori,76
+160570,Acacia mangium Willd.,77
+166822,Caesalpinia pulcherrima (L.) Sw.,78
+166869,Cajanus cajan (L.) Millsp.,79
+169293,Crotalaria retusa L.,80
+171727,Erythrina fusca Lour.,81
+173914,Inga alba (Sw.) Willd.,82
+173972,Inga capitata Desv.,83
+174017,Inga edulis Mart.,84
+177730,Mimosa pigra L.,85
+177775,Mimosa pudica L.,86
+189669,Punica granatum L.,87
+191642,Adansonia digitata L.,88
+192311,Ceiba pentandra (L.) Gaertn.,89
+194035,Hibiscus rosa-sinensis L.,90
+209328,Psidium guineense Sw.,91
+211059,Nephrolepis biserrata (Sw.) Schott,92
+244705,Averrhoa carambola L.,93
+248392,Turnera ulmifolia L.,94
+254180,Piper peltatum L.,95
+275029,Eichhornia crassipes (Mart.) Solms,96
+280085,Ceratopteris thalictroides (L.) Brongn.,97
+280698,Pityrogramma calomelanos (L.) Link,98
+285398,Cassipourea guianensis Aubl.,99
