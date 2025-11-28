@@ -1,0 +1,208 @@
+label,prediction,confidence,species_name,top1_correct,top5_correct
+17,88,0.3467775881290436,Maripa glabra Choisy,False,False
+19,94,0.8379306197166443,Costus arabicus L.,False,False
+23,78,0.853965163230896,Pteridium arachnoideum (Kaulf.) Maxon,False,False
+24,43,0.39555829763412476,Olfersia cervina (L.) Kunze,False,False
+25,70,0.38559746742248535,Diospyros capreifolia Mart. ex Hiern,False,False
+27,95,0.8806205987930298,Sloanea guianensis (Aubl.) Benth.,False,False
+28,69,0.4894067645072937,Sphyrospermum cordifolium Benth.,False,False
+29,26,0.36690548062324524,Syngonanthus caulescens (Poir.) Ruhland,False,False
+30,92,0.7317768335342407,Tonina fluviatilis Aubl.,False,False
+33,67,0.5697128772735596,Erythroxylum squamatum Sw.,False,False
+35,22,0.2617412507534027,Euphorbia cotinifolia L.,False,False
+39,26,0.2345147579908371,Euphorbia tithymaloides L.,False,False
+4,43,0.2893402576446533,Annona ambotay Aubl.,False,False
+5,22,0.8528328537940979,Annona foetida Mart.,False,False
+45,93,0.5955793857574463,Potalia amara Aubl.,False,False
+49,53,0.3161122798919678,Dicranopteris flexuosa (Schrad.) Underw.,False,False
+50,97,0.6153913736343384,Dicranopteris pectinata (Willd.) Underw.,False,False
+54,37,0.455906480550766,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,False,False
+55,95,0.8038716912269592,Trichomanes punctatum Poir.,False,False
+9,22,0.983372151851654,Guatteria scandens Ducke,False,False
+57,86,0.5848580002784729,Cipura paludosa Aubl.,False,False
+58,99,0.40152472257614136,Aegiphila macrantha Ducke,False,False
+60,89,0.4776187837123871,Congea tomentosa Roxb.,False,False
+61,94,0.8710169792175293,Gmelina philippensis Cham.,False,False
+10,13,0.6034373641014099,Rollinia mucosa (Jacq.) Baill.,False,False
+65,26,0.5358112454414368,Orthosiphon aristatus (Blume) Miq.,False,False
+12,70,0.6676977872848511,Xylopia cayennensis Maas,False,False
+74,59,0.9235003590583801,Couratari guianensis Aubl.,False,False
+75,68,0.5512562394142151,Eschweilera parviflora (Aubl.) Miers,False,False
+76,94,0.6851816177368164,Eschweilera pedicellata (Rich.) S.A.Mori,False,False
+20,31,0.16746389865875244,Costus scaber Ruiz Pav.,False,False
+20,19,0.5038768649101257,Costus scaber Ruiz Pav.,False,True
+20,1,0.7454528212547302,Costus scaber Ruiz Pav.,False,False
+1,1,0.2343783974647522,Mangifera indica L.,True,True
+1,84,0.9775549173355103,Mangifera indica L.,False,True
+1,40,0.8306902050971985,Mangifera indica L.,False,False
+32,32,0.9800691604614258,Erythroxylum macrophyllum Cav.,True,True
+32,67,0.32931655645370483,Erythroxylum macrophyllum Cav.,False,True
+32,71,0.8641480803489685,Erythroxylum macrophyllum Cav.,False,False
+2,43,0.3041180670261383,Spondias mombin L.,False,False
+2,43,0.57182776927948,Spondias mombin L.,False,False
+2,2,0.4468933939933777,Spondias mombin L.,True,True
+3,3,0.8925678730010986,Tapirira guianensis Aubl.,True,True
+3,73,0.4926462471485138,Tapirira guianensis Aubl.,False,True
+36,36,0.6149969100952148,Euphorbia heterophylla L.,True,True
+36,36,0.28652387857437134,Euphorbia heterophylla L.,True,True
+36,95,0.526919960975647,Euphorbia heterophylla L.,False,True
+37,40,0.5876842737197876,Euphorbia prostrata Aiton,False,False
+37,68,0.16779983043670654,Euphorbia prostrata Aiton,False,True
+37,43,0.42931994795799255,Euphorbia prostrata Aiton,False,True
+40,40,0.47918418049812317,Hura crepitans L.,True,True
+40,20,0.5459781885147095,Hura crepitans L.,False,True
+40,97,0.8647156953811646,Hura crepitans L.,False,False
+43,53,0.3807014524936676,Ricinus communis L.,False,True
+43,43,0.39117133617401123,Ricinus communis L.,True,True
+43,75,0.9253317713737488,Ricinus communis L.,False,False
+44,91,0.8565130233764648,Sapium glandulosum (L.) Morong,False,False
+44,40,0.5624648332595825,Sapium glandulosum (L.) Morong,False,True
+44,91,0.31733426451683044,Sapium glandulosum (L.) Morong,False,False
+7,7,0.39134278893470764,Annona muricata L.,True,True
+7,2,0.9597343802452087,Annona muricata L.,False,False
+7,7,0.265305757522583,Annona muricata L.,True,True
+46,46,0.9848024249076843,Chrysothemis pulchella (Donn ex Sims) Decne.,True,True
+46,46,0.9978060126304626,Chrysothemis pulchella (Donn ex Sims) Decne.,True,True
+46,46,0.9918708801269531,Chrysothemis pulchella (Donn ex Sims) Decne.,True,True
+66,99,0.36086031794548035,Aniba guianensis Aubl.,False,False
+66,93,0.7388346195220947,Aniba guianensis Aubl.,False,False
+66,93,0.5486571788787842,Aniba guianensis Aubl.,False,False
+68,68,0.9893221855163574,Nectandra cissiflora Nees,True,True
+68,72,0.31182828545570374,Nectandra cissiflora Nees,False,True
+68,83,0.5518109798431396,Nectandra cissiflora Nees,False,True
+70,83,0.9532215595245361,Ocotea floribunda (Sw.) Mez,False,True
+70,72,0.23370738327503204,Ocotea floribunda (Sw.) Mez,False,True
+70,44,0.5191652774810791,Ocotea floribunda (Sw.) Mez,False,True
+71,71,0.8824325799942017,Ocotea longifolia Kunth,True,True
+71,96,0.543661892414093,Ocotea longifolia Kunth,False,False
+71,43,0.1604386568069458,Ocotea longifolia Kunth,False,True
+73,6,0.6785278916358948,Ocotea puberula (Rich.) Nees,False,False
+73,91,0.7731074690818787,Ocotea puberula (Rich.) Nees,False,False
+73,73,0.6218985319137573,Ocotea puberula (Rich.) Nees,True,True
+78,78,0.4022461771965027,Caesalpinia pulcherrima (L.) Sw.,True,True
+78,46,0.4119376540184021,Caesalpinia pulcherrima (L.) Sw.,False,False
+78,89,0.5929569602012634,Caesalpinia pulcherrima (L.) Sw.,False,False
+80,16,0.8272033333778381,Crotalaria retusa L.,False,False
+80,94,0.44733336567878723,Crotalaria retusa L.,False,False
+80,7,0.6502408981323242,Crotalaria retusa L.,False,False
+82,40,0.244858056306839,Inga alba (Sw.) Willd.,False,False
+82,73,0.48070141673088074,Inga alba (Sw.) Willd.,False,False
+82,40,0.3134287893772125,Inga alba (Sw.) Willd.,False,False
+83,83,0.837195634841919,Inga capitata Desv.,True,True
+83,83,0.5678137540817261,Inga capitata Desv.,True,True
+83,43,0.32354238629341125,Inga capitata Desv.,False,False
+84,84,0.9811029434204102,Inga edulis Mart.,True,True
+84,84,0.8813867568969727,Inga edulis Mart.,True,True
+84,51,0.8023381233215332,Inga edulis Mart.,False,False
+85,3,0.4310695230960846,Mimosa pigra L.,False,False
+85,68,0.2815905511379242,Mimosa pigra L.,False,False
+85,93,0.45391103625297546,Mimosa pigra L.,False,False
+86,91,0.3767487704753876,Mimosa pudica L.,False,False
+86,91,0.6827090382575989,Mimosa pudica L.,False,False
+86,88,0.7481464147567749,Mimosa pudica L.,False,False
+87,43,0.18753671646118164,Punica granatum L.,False,True
+87,43,0.28255608677864075,Punica granatum L.,False,False
+87,94,0.7248178720474243,Punica granatum L.,False,False
+88,88,0.9422775506973267,Adansonia digitata L.,True,True
+88,88,0.8656263947486877,Adansonia digitata L.,True,True
+88,88,0.3428487479686737,Adansonia digitata L.,True,True
+14,14,0.9180601239204407,Allamanda cathartica L.,True,True
+14,14,0.5370628833770752,Allamanda cathartica L.,True,True
+14,90,0.6904809474945068,Allamanda cathartica L.,False,True
+89,88,0.9266355037689209,Ceiba pentandra (L.) Gaertn.,False,True
+89,88,0.3520625829696655,Ceiba pentandra (L.) Gaertn.,False,True
+90,90,0.9987861514091492,Hibiscus rosa-sinensis L.,True,True
+90,19,0.34881460666656494,Hibiscus rosa-sinensis L.,False,False
+90,71,0.3898873031139374,Hibiscus rosa-sinensis L.,False,False
+15,99,0.48680639266967773,Asclepias curassavica L.,False,False
+15,15,0.9993426203727722,Asclepias curassavica L.,True,True
+15,15,0.8626369833946228,Asclepias curassavica L.,True,True
+91,91,0.5003097057342529,Psidium guineense Sw.,True,True
+91,70,0.30048543214797974,Psidium guineense Sw.,False,True
+91,68,0.7180042862892151,Psidium guineense Sw.,False,False
+92,2,0.25780636072158813,Nephrolepis biserrata (Sw.) Schott,False,False
+92,95,0.6877616047859192,Nephrolepis biserrata (Sw.) Schott,False,False
+93,62,0.5273597240447998,Averrhoa carambola L.,False,False
+93,93,0.7983564734458923,Averrhoa carambola L.,True,True
+93,93,0.9829431772232056,Averrhoa carambola L.,True,True
+94,94,0.6058335304260254,Turnera ulmifolia L.,True,True
+94,41,0.47613564133644104,Turnera ulmifolia L.,False,False
+94,18,0.977771520614624,Turnera ulmifolia L.,False,True
+95,7,0.6645026206970215,Piper peltatum L.,False,True
+95,95,0.993198812007904,Piper peltatum L.,True,True
+95,64,0.6434312462806702,Piper peltatum L.,False,True
+96,96,0.7938143014907837,Eichhornia crassipes (Mart.) Solms,True,True
+96,94,0.34203803539276123,Eichhornia crassipes (Mart.) Solms,False,False
+96,96,0.506231427192688,Eichhornia crassipes (Mart.) Solms,True,True
+97,41,0.4076802432537079,Ceratopteris thalictroides (L.) Brongn.,False,True
+97,97,0.9935948252677917,Ceratopteris thalictroides (L.) Brongn.,True,True
+97,97,0.8673346042633057,Ceratopteris thalictroides (L.) Brongn.,True,True
+98,3,0.37828367948532104,Pityrogramma calomelanos (L.) Link,False,False
+98,67,0.2183941900730133,Pityrogramma calomelanos (L.) Link,False,False
+98,98,0.9915788173675537,Pityrogramma calomelanos (L.) Link,True,True
+99,99,0.9852449297904968,Cassipourea guianensis Aubl.,True,True
+99,99,0.6686390042304993,Cassipourea guianensis Aubl.,True,True
+99,99,0.9093087911605835,Cassipourea guianensis Aubl.,True,True
+16,7,0.46262240409851074,Oreopanax capitatus (Jacq.) Decne. Planch.,False,False
+16,92,0.26241594552993774,Oreopanax capitatus (Jacq.) Decne. Planch.,False,True
+16,72,0.2551287114620209,Oreopanax capitatus (Jacq.) Decne. Planch.,False,False
+18,40,0.9613045454025269,Merremia umbellata (L.) Hallier f.,False,False
+18,15,0.30271488428115845,Merremia umbellata (L.) Hallier f.,False,False
+21,45,0.7016814351081848,Costus spiralis (Jacq.) Roscoe,False,False
+21,40,0.4845452308654785,Costus spiralis (Jacq.) Roscoe,False,False
+22,92,0.7908150553703308,Evodianthus funifer (Poit.) Lindm.,False,True
+22,84,0.44343405961990356,Evodianthus funifer (Poit.) Lindm.,False,True
+26,26,0.8758878111839294,Sloanea grandiflora Sm.,True,True
+26,26,0.2594620883464813,Sloanea grandiflora Sm.,True,True
+0,93,0.4291791617870331,Anacardium occidentale L.,False,False
+0,93,0.5442684888839722,Anacardium occidentale L.,False,False
+31,67,0.23806221783161163,Erythroxylum fimbriatum Peyr.,False,False
+31,31,0.9711825847625732,Erythroxylum fimbriatum Peyr.,True,True
+34,70,0.4957295060157776,Croton schiedeanus Schltdl.,False,False
+34,83,0.5014497637748718,Croton schiedeanus Schltdl.,False,True
+38,37,0.6812198162078857,Euphorbia thymifolia L.,False,True
+38,92,0.35504260659217834,Euphorbia thymifolia L.,False,True
+41,94,0.8858003616333008,Jatropha curcas L.,False,False
+41,16,0.5792044401168823,Jatropha curcas L.,False,False
+42,8,0.6871817708015442,Jatropha gossypiifolia L.,False,False
+42,95,0.8401002287864685,Jatropha gossypiifolia L.,False,False
+6,11,0.9626353979110718,Annona glabra L.,False,False
+6,91,0.6638215780258179,Annona glabra L.,False,False
+47,91,0.6400517821311951,Lembocarpus amoenus Leeuwenb.,False,False
+47,96,0.7793911695480347,Lembocarpus amoenus Leeuwenb.,False,False
+48,93,0.699238657951355,Sinningia incarnata (Aubl.) D.L.Denham,False,False
+48,90,0.9817772507667542,Sinningia incarnata (Aubl.) D.L.Denham,False,True
+51,51,0.9917562007904053,Heliconia chartacea Lane ex Barreiros,True,True
+51,51,0.9947874546051025,Heliconia chartacea Lane ex Barreiros,True,True
+52,88,0.32154136896133423,Hernandia guianensis Aubl.,False,False
+52,41,0.28732001781463623,Hernandia guianensis Aubl.,False,False
+53,91,0.4695736765861511,Hymenophyllum hirsutum (L.) Sw.,False,True
+53,89,0.3097967505455017,Hymenophyllum hirsutum (L.) Sw.,False,False
+8,8,0.7363489270210266,Guatteria ouregou (Aubl.) Dunal,True,True
+8,8,0.9237450957298279,Guatteria ouregou (Aubl.) Dunal,True,True
+56,68,0.4307969808578491,Didymochlaena truncatula (Sw.) J. Sm.,False,True
+56,98,0.59340900182724,Didymochlaena truncatula (Sw.) J. Sm.,False,True
+59,59,0.9995598196983337,Clerodendrum paniculatum L.,True,True
+59,43,0.4922447204589844,Clerodendrum paniculatum L.,False,False
+62,93,0.4293361306190491,Holmskioldia sanguinea Retz.,False,False
+62,62,0.8122422695159912,Holmskioldia sanguinea Retz.,True,True
+63,70,0.272371381521225,Hyptis lanceolata Poir.,False,True
+63,44,0.25991323590278625,Hyptis lanceolata Poir.,False,False
+64,44,0.6023317575454712,Ocimum campechianum Mill.,False,False
+64,99,0.3603399693965912,Ocimum campechianum Mill.,False,False
+11,20,0.5753384828567505,Xylopia aromatica (Lam.) Mart.,False,False
+11,20,0.7175396084785461,Xylopia aromatica (Lam.) Mart.,False,False
+13,13,0.803066611289978,Xylopia frutescens Aubl.,True,True
+13,46,0.22483786940574646,Xylopia frutescens Aubl.,False,False
+67,72,0.2795247435569763,Aniba megaphylla Mez,False,True
+67,72,0.3144131898880005,Aniba megaphylla Mez,False,True
+69,68,0.145308718085289,Ocotea cernua (Nees) Mez,False,False
+69,70,0.5068943500518799,Ocotea cernua (Nees) Mez,False,True
+72,83,0.4588651955127716,Ocotea oblonga (Meisn.) Mez,False,True
+72,71,0.5159657597541809,Ocotea oblonga (Meisn.) Mez,False,True
+77,99,0.3526201546192169,Acacia mangium Willd.,False,False
+77,18,0.8947761654853821,Acacia mangium Willd.,False,False
+79,71,0.20303639769554138,Cajanus cajan (L.) Millsp.,False,False
+79,93,0.536828339099884,Cajanus cajan (L.) Millsp.,False,False
+81,81,0.380118727684021,Erythrina fusca Lour.,True,True
+81,81,0.9327231645584106,Erythrina fusca Lour.,True,True

@@ -1,0 +1,101 @@
+label,species_name,total,top1_correct,top1_acc,top5_acc
+26,Sloanea grandiflora Sm.,2,2,1.0,1.0
+8,Guatteria ouregou (Aubl.) Dunal,2,2,1.0,1.0
+46,Chrysothemis pulchella (Donn ex Sims) Decne.,3,3,1.0,1.0
+51,Heliconia chartacea Lane ex Barreiros,2,2,1.0,1.0
+81,Erythrina fusca Lour.,2,2,1.0,1.0
+88,Adansonia digitata L.,3,3,1.0,1.0
+99,Cassipourea guianensis Aubl.,3,3,1.0,1.0
+83,Inga capitata Desv.,3,2,0.6667,0.6667
+15,Asclepias curassavica L.,3,2,0.6667,0.6667
+36,Euphorbia heterophylla L.,3,2,0.6667,1.0
+96,Eichhornia crassipes (Mart.) Solms,3,2,0.6667,0.6667
+97,Ceratopteris thalictroides (L.) Brongn.,3,2,0.6667,1.0
+84,Inga edulis Mart.,3,2,0.6667,0.6667
+93,Averrhoa carambola L.,3,2,0.6667,0.6667
+7,Annona muricata L.,3,2,0.6667,0.6667
+14,Allamanda cathartica L.,3,2,0.6667,1.0
+59,Clerodendrum paniculatum L.,2,1,0.5,0.5
+13,Xylopia frutescens Aubl.,2,1,0.5,0.5
+31,Erythroxylum fimbriatum Peyr.,2,1,0.5,0.5
+3,Tapirira guianensis Aubl.,2,1,0.5,1.0
+62,Holmskioldia sanguinea Retz.,2,1,0.5,0.5
+91,Psidium guineense Sw.,3,1,0.3333,0.6667
+40,Hura crepitans L.,3,1,0.3333,0.6667
+43,Ricinus communis L.,3,1,0.3333,0.6667
+1,Mangifera indica L.,3,1,0.3333,0.6667
+2,Spondias mombin L.,3,1,0.3333,0.3333
+32,Erythroxylum macrophyllum Cav.,3,1,0.3333,0.6667
+94,Turnera ulmifolia L.,3,1,0.3333,0.6667
+98,Pityrogramma calomelanos (L.) Link,3,1,0.3333,0.3333
+90,Hibiscus rosa-sinensis L.,3,1,0.3333,0.3333
+68,Nectandra cissiflora Nees,3,1,0.3333,1.0
+71,Ocotea longifolia Kunth,3,1,0.3333,0.6667
+73,Ocotea puberula (Rich.) Nees,3,1,0.3333,0.3333
+78,Caesalpinia pulcherrima (L.) Sw.,3,1,0.3333,0.3333
+95,Piper peltatum L.,3,1,0.3333,1.0
+0,Anacardium occidentale L.,2,0,0.0,0.0
+35,Euphorbia cotinifolia L.,1,0,0.0,0.0
+34,Croton schiedeanus Schltdl.,2,0,0.0,0.5
+33,Erythroxylum squamatum Sw.,1,0,0.0,0.0
+30,Tonina fluviatilis Aubl.,1,0,0.0,0.0
+28,Sphyrospermum cordifolium Benth.,1,0,0.0,0.0
+29,Syngonanthus caulescens (Poir.) Ruhland,1,0,0.0,0.0
+25,Diospyros capreifolia Mart. ex Hiern,1,0,0.0,0.0
+27,Sloanea guianensis (Aubl.) Benth.,1,0,0.0,0.0
+21,Costus spiralis (Jacq.) Roscoe,2,0,0.0,0.0
+22,Evodianthus funifer (Poit.) Lindm.,2,0,0.0,1.0
+24,Olfersia cervina (L.) Kunze,1,0,0.0,0.0
+23,Pteridium arachnoideum (Kaulf.) Maxon,1,0,0.0,0.0
+20,Costus scaber Ruiz Pav.,3,0,0.0,0.3333
+17,Maripa glabra Choisy,1,0,0.0,0.0
+18,Merremia umbellata (L.) Hallier f.,2,0,0.0,0.0
+19,Costus arabicus L.,1,0,0.0,0.0
+4,Annona ambotay Aubl.,1,0,0.0,0.0
+5,Annona foetida Mart.,1,0,0.0,0.0
+6,Annona glabra L.,2,0,0.0,0.0
+16,Oreopanax capitatus (Jacq.) Decne. Planch.,3,0,0.0,0.3333
+12,Xylopia cayennensis Maas,1,0,0.0,0.0
+9,Guatteria scandens Ducke,1,0,0.0,0.0
+10,Rollinia mucosa (Jacq.) Baill.,1,0,0.0,0.0
+11,Xylopia aromatica (Lam.) Mart.,2,0,0.0,0.0
+42,Jatropha gossypiifolia L.,2,0,0.0,0.0
+41,Jatropha curcas L.,2,0,0.0,0.0
+45,Potalia amara Aubl.,1,0,0.0,0.0
+44,Sapium glandulosum (L.) Morong,3,0,0.0,0.3333
+47,Lembocarpus amoenus Leeuwenb.,2,0,0.0,0.0
+48,Sinningia incarnata (Aubl.) D.L.Denham,2,0,0.0,0.5
+39,Euphorbia tithymaloides L.,1,0,0.0,0.0
+38,Euphorbia thymifolia L.,2,0,0.0,1.0
+67,Aniba megaphylla Mez,2,0,0.0,1.0
+66,Aniba guianensis Aubl.,3,0,0.0,0.0
+65,Orthosiphon aristatus (Blume) Miq.,1,0,0.0,0.0
+64,Ocimum campechianum Mill.,2,0,0.0,0.0
+63,Hyptis lanceolata Poir.,2,0,0.0,0.5
+61,Gmelina philippensis Cham.,1,0,0.0,0.0
+60,Congea tomentosa Roxb.,1,0,0.0,0.0
+58,Aegiphila macrantha Ducke,1,0,0.0,0.0
+53,Hymenophyllum hirsutum (L.) Sw.,2,0,0.0,0.5
+57,Cipura paludosa Aubl.,1,0,0.0,0.0
+56,Didymochlaena truncatula (Sw.) J. Sm.,2,0,0.0,1.0
+55,Trichomanes punctatum Poir.,1,0,0.0,0.0
+52,Hernandia guianensis Aubl.,2,0,0.0,0.0
+54,Trichomanes diversifrons (Bory) Mett. ex Sadeb.,1,0,0.0,0.0
+49,Dicranopteris flexuosa (Schrad.) Underw.,1,0,0.0,0.0
+50,Dicranopteris pectinata (Willd.) Underw.,1,0,0.0,0.0
+37,Euphorbia prostrata Aiton,3,0,0.0,0.6667
+80,Crotalaria retusa L.,3,0,0.0,0.0
+82,Inga alba (Sw.) Willd.,3,0,0.0,0.0
+79,Cajanus cajan (L.) Millsp.,2,0,0.0,0.0
+76,Eschweilera pedicellata (Rich.) S.A.Mori,1,0,0.0,0.0
+72,Ocotea oblonga (Meisn.) Mez,2,0,0.0,1.0
+74,Couratari guianensis Aubl.,1,0,0.0,0.0
+75,Eschweilera parviflora (Aubl.) Miers,1,0,0.0,0.0
+69,Ocotea cernua (Nees) Mez,2,0,0.0,0.5
+70,Ocotea floribunda (Sw.) Mez,3,0,0.0,1.0
+77,Acacia mangium Willd.,2,0,0.0,0.0
+87,Punica granatum L.,3,0,0.0,0.3333
+89,Ceiba pentandra (L.) Gaertn.,2,0,0.0,1.0
+85,Mimosa pigra L.,3,0,0.0,0.0
+86,Mimosa pudica L.,3,0,0.0,0.0
+92,Nephrolepis biserrata (Sw.) Schott,2,0,0.0,0.0
